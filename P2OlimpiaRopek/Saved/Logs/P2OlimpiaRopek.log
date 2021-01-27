@@ -522,3 +522,180 @@ LogInit: Object subsystem initialized
 [2021.01.27-22.04.48:648][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2021.01.27-22.04.48:898][869]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevelA70A84724F72BA94EA56ABB5D7B89A31.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Levels/MainLevel.umap'
 [2021.01.27-22.04.48:913][869]LogFileHelpers: Saving map 'MainLevel' took 0.258
+[2021.01.27-22.07.25:261][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.07.31:782][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.07.45:518][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.07.46:978][121]MapCheck: New page: Map Check
+[2021.01.27-22.07.46:990][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.07.46:993][121]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.27-22.07.46:993][121]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.27-22.07.47:018][121]LightingResults: New page: Lighting Build - 28 sty 2021, 00:07:47
+[2021.01.27-22.07.47:106][121]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.27-22.07.47:172][121]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.27-22.07.47:187][121]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.27-22.07.48:205][121]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.27-22.07.48:205][121]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13028
+[2021.01.27-22.07.54:488][121]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.01.27-22.07.54:488][121]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.27-22.07.54:489][121]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.27-22.07.54:489][121]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.27-22.07.54:489][121]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.27-22.07.54:489][121]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.27-22.07.55:119][121]LogEditorBuildUtils: Build time 0:08
+[2021.01.27-22.07.56:993][251]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.01.27-22.07.57:202][269]Job is a success!
+[2021.01.27-22.07.57:234][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:      BrickData 115x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:      Bricks at Level
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:          0: 4.3% covering 100.0% of volume
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:          1: 8.7% covering 3.1% of volume
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:          2: 87.0% covering 0.5% of volume
+[2021.01.27-22.07.57:386][270]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2021.01.27-22.07.57:386][270]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.01.27-22.07.57:386][270]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.01.27-22.07.57:386][270]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X256)
+[2021.01.27-22.07.57:412][270]Lightmass on DESKTOP-K8UO9K4: 1.74 sec total, 89 ms importing, 3 ms setup, 1.01 sec photons, 586 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 7.81 sec total, 140 ms processing.
+[2021.01.27-22.07.57:472][270]LogStaticLightingSystem: Illumination: 10.4 sec (42 ms encoding lightmaps, 41 ms encoding shadowmaps)
+[2021.01.27-22.07.57:472][270]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2021.01.27-22.07.57:472][270]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 1 textures
+[2021.01.27-22.07.57:503][270]DumpUnbuiltLightIteractions
+[2021.01.27-22.07.57:503][270]Lights with unbuilt interactions: 0
+[2021.01.27-22.07.57:503][270]
+[2021.01.27-22.07.57:503][270]Primitives with unbuilt interactions: 0
+[2021.01.27-22.07.57:513][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.07.57:547][271]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.27-22.07.57:547][271]MapCheck: New page: MainLevel - 28 sty 2021, 00:07:57
+[2021.01.27-22.07.57:610][271]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63,076ms to complete.
+[2021.01.27-22.08.00:118][569]Cmd: DELETE
+[2021.01.27-22.08.00:118][569]Cmd: ACTOR DELETE
+[2021.01.27-22.08.00:120][569]LogEditorActor: Deleted Actor: SkyLight
+[2021.01.27-22.08.00:155][569]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.01.27-22.08.30:996][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.08.42:153][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.08.49:239][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.08.59:564][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.09.10:315][934]Cmd: DELETE
+[2021.01.27-22.09.10:315][934]Cmd: ACTOR DELETE
+[2021.01.27-22.09.10:317][934]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.01.27-22.09.10:353][934]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.01.27-22.09.11:654][ 90]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.01.27-22.09.13:493][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.09.14:902][464]MapCheck: New page: Map Check
+[2021.01.27-22.09.14:920][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.09.14:924][464]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.27-22.09.14:924][464]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.27-22.09.14:935][464]LightingResults: New page: Lighting Build - 28 sty 2021, 00:09:14
+[2021.01.27-22.09.14:942][464]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.27-22.09.14:948][464]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.27-22.09.14:948][464]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.27-22.09.14:949][464]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.27-22.09.14:949][464]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13028
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.27-22.09.19:578][464]LogEditorBuildUtils: Build time 0:04
+[2021.01.27-22.09.21:557][612]Job is a success!
+[2021.01.27-22.09.21:586][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:      BrickData 115x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:      Bricks at Level
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:          0: 4.3% covering 100.0% of volume
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:          1: 8.7% covering 3.1% of volume
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:          2: 87.0% covering 0.5% of volume
+[2021.01.27-22.09.21:688][613]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.01.27-22.09.21:688][613]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.01.27-22.09.21:688][613]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X256)
+[2021.01.27-22.09.21:736][613]Lightmass on DESKTOP-K8UO9K4: 1.66 sec total, 74 ms importing, 3 ms setup, 1.00 sec photons, 525 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 6.88 sec total, 220 ms processing.
+[2021.01.27-22.09.21:747][613]LogStaticLightingSystem: Illumination: 6.79 sec (24 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2021.01.27-22.09.21:747][613]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.0 MB streaming, 0.5 MB non-streaming), 2 textures
+[2021.01.27-22.09.21:747][613]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 1 textures
+[2021.01.27-22.09.22:498][613]DumpUnbuiltLightIteractions
+[2021.01.27-22.09.22:498][613]Lights with unbuilt interactions: 0
+[2021.01.27-22.09.22:498][613]
+[2021.01.27-22.09.22:498][613]Primitives with unbuilt interactions: 0
+[2021.01.27-22.09.22:509][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.09.22:534][614]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.27-22.09.22:534][614]MapCheck: New page: MainLevel - 28 sty 2021, 00:09:22
+[2021.01.27-22.09.22:594][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61,033ms to complete.
+[2021.01.27-22.09.27:382][154]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.01.27-22.09.27:807][201]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.01.27-22.09.28:654][301]Cmd: DELETE
+[2021.01.27-22.09.28:654][301]Cmd: ACTOR DELETE
+[2021.01.27-22.09.28:656][301]LogEditorActor: Deleted Actor: SpotLight
+[2021.01.27-22.09.28:691][301]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.01.27-22.09.49:916][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.09.57:854][741]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.10.39:690][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.10.45:380][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.10.52:170][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.10.56:863][675]LogEditorViewport: Clicking Background
+[2021.01.27-22.10.58:858][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.11.04:589][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.11.24:911][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.11.28:021][312]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2021.01.27-22.11.32:444][842]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2021.01.27-22.11.40:533][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.11.52:671][209]LogMaterial: Warning: Material /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain.M_MaterialSphere_Plain needed to have new flag set bUsedWithStaticLighting !
+[2021.01.27-22.11.52:673][209]LogMaterial: Display: Missing cached shader map for material M_MaterialSphere_Plain, compiling. 
+[2021.01.27-22.11.52:824][210]LogShaderCompilers: Display: Shaders left to compile 31
+[2021.01.27-22.11.52:824][210]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-22.11.52:824][210]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-22.11.52:824][210]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-22.11.54:092][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.11.56:081][550]LogEditorViewport: Clicking Background
+[2021.01.27-22.11.59:562][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.12.01:612][200]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.12.02:425][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.12.13:873][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.12.15:240][787]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.12.16:336][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.12.31:012][632]LogEditorViewport: Clicking Background
+[2021.01.27-22.12.36:574][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.12.41:494][879]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2021.01.27-22.12.42:192][962]LogEditorViewport: Clicking Background
+[2021.01.27-22.12.56:771][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.12.58:546][875]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.12.59:245][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.13.11:102][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.13.21:982][606]LogEditorViewport: Clicking Background
+[2021.01.27-22.14.09:413][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.14.11:022][447]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.14.12:134][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.14.17:123][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.14.20:565][576]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2021.01.27-22.14.26:089][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.14.27:280][357]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.14.28:127][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.14.33:537][103]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2021.01.27-22.14.34:187][180]LogEditorViewport: Clicking Background
+[2021.01.27-22.14.47:624][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.14.49:200][949]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.14.49:791][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.15.00:795][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.15.01:986][440]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.15.02:545][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.15.19:920][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.15.21:345][676]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.15.22:172][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.15.37:892][625]LogEditorViewport: Clicking Background
+[2021.01.27-22.16.33:620][650]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto2D34AA1F34954039711F919AE1033100F.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2021.01.27-22.16.33:623][650]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.284
+[2021.01.27-22.16.33:623][650]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2021.01.27-22.16.33:625][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/MainLevel_BuiltData] ([1] browsable assets)...
+[2021.01.27-22.16.33:625][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainLevel_BuiltData]
+[2021.01.27-22.16.33:642][650]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_BuiltData_Auto2F14A5FDF48CF671A8ACFFE8DDC88B819.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_BuiltData_Auto2.uasset'
+[2021.01.27-22.16.33:645][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain] ([1] browsable assets)...
+[2021.01.27-22.16.33:671][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain.M_MaterialSphere_Plain]
+[2021.01.27-22.16.33:671][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain]
+[2021.01.27-22.16.33:705][650]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/M_MaterialSphere_Plain_Auto2B64F820544B7AB1BE7FDDDAEF0C982DA.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain_Auto2.uasset'
+[2021.01.27-22.16.33:706][650]LogFileHelpers: Auto-saving content packages took 0.082
+[2021.01.27-22.16.59:711][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.17.01:590][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.17.01:655][239]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel4A8D3ACE4FB16D5593DBD1BC6B11ABE4.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Levels/MainLevel.umap'
+[2021.01.27-22.17.01:682][239]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_BuiltData8E4AD5AB4BF3E7C3EDFAB0AE7835E179.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Levels/MainLevel_BuiltData.uasset'
