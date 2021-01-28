@@ -843,3 +843,1538 @@ LogInit: Object subsystem initialized
 [2021.01.28-00.32.05:202][841]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal)
 [2021.01.28-00.32.06:774][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2021.01.28-00.37.21:877][623]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/BP_PlayerPawnD6E62A6542083AD082BAFFB376495E29.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Blueprints/BP_PlayerPawn.uasset'
+[2021.01.28-00.39.21:266][311]LogEditorTransaction: Undo Promote To Variable
+[2021.01.28-00.40.28:617][570]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.040
+[2021.01.28-00.40.28:618][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.01.28-00.40.28:635][570]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.01.28-00.40.28:635][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.01.28-00.40.28:659][570]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/BP_PlayerPawn_Auto435F9497B479EBBB319692F95589F55F7.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto4.uasset'
+[2021.01.28-00.40.28:660][570]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.01.28-00.42.30:363][956]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.42.32:427][166]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.42.32:443][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.42.32:443][166]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:42:32)
+[2021.01.28-00.42.32:443][166]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.42.32:447][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004393s)
+[2021.01.28-00.42.32:447][166]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.42.32:447][166]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2021.01.28-00.42.32:447][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005194s)
+[2021.01.28-00.42.32:515][166]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.42.32:528][166]LogInit: FAudioDevice initialized.
+[2021.01.28-00.42.32:559][166]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.42.32:560][166]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.42.32
+[2021.01.28-00.42.32:560][166]LogWorld: Bringing up level for play took: 0.001143
+[2021.01.28-00.42.32:573][166]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,438
+[2021.01.28-00.42.38:164][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.42.38:201][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.42.38:240][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.42.38:264][836]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.01.28-00.42.49:618][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-00.43.06:022][674]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.43.06:037][674]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.28-00.43.06:040][674]LogPlayLevel: [PlayLevel] Compiling BP_PlayerPawn before play...
+[2021.01.28-00.43.06:217][674]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (1 blueprints)
+[2021.01.28-00.43.06:218][674]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:43:06)
+[2021.01.28-00.43.06:218][674]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.43.06:222][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004372s)
+[2021.01.28-00.43.06:223][674]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.43.06:223][674]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2021.01.28-00.43.06:223][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005147s)
+[2021.01.28-00.43.06:292][674]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.43.06:304][674]LogInit: FAudioDevice initialized.
+[2021.01.28-00.43.06:320][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.43.06:356][674]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.43.06:357][674]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.43.06
+[2021.01.28-00.43.06:357][674]LogWorld: Bringing up level for play took: 0.001164
+[2021.01.28-00.43.06:371][674]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,641
+[2021.01.28-00.43.14:457][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.43.14:469][638]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.43.14:505][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.43.14:563][639]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.01.28-00.43.43:201][429]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.43.44:310][537]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.43.44:325][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.43.44:325][537]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:43:44)
+[2021.01.28-00.43.44:325][537]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.43.44:330][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004366s)
+[2021.01.28-00.43.44:330][537]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.43.44:331][537]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2021.01.28-00.43.44:331][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005165s)
+[2021.01.28-00.43.44:401][537]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.43.44:414][537]LogInit: FAudioDevice initialized.
+[2021.01.28-00.43.44:429][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.43.44:465][537]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.43.44:466][537]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.43.44
+[2021.01.28-00.43.44:467][537]LogWorld: Bringing up level for play took: 0.001189
+[2021.01.28-00.43.44:480][537]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,531
+[2021.01.28-00.43.52:594][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.43.52:605][487]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.43.52:642][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.43.52:701][488]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.01.28-00.44.45:226][775]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.44.46:361][887]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.44.46:377][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.44.46:377][887]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:44:46)
+[2021.01.28-00.44.46:377][887]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.44.46:381][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004396s)
+[2021.01.28-00.44.46:382][887]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.44.46:382][887]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2021.01.28-00.44.46:382][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005218s)
+[2021.01.28-00.44.46:454][887]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.44.46:467][887]LogInit: FAudioDevice initialized.
+[2021.01.28-00.44.46:482][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.44.46:517][887]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.44.46:519][887]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.44.46
+[2021.01.28-00.44.46:519][887]LogWorld: Bringing up level for play took: 0.001207
+[2021.01.28-00.44.46:533][887]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,478
+[2021.01.28-00.44.59:254][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.44.59:265][393]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.44.59:300][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.44.59:359][394]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.01.28-00.45.05:323][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-00.45.20:176][876]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.45.20:901][939]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.45.20:917][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.45.20:917][939]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:45:20)
+[2021.01.28-00.45.20:917][939]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.45.20:922][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004458s)
+[2021.01.28-00.45.20:922][939]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.45.20:922][939]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2021.01.28-00.45.20:922][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005266s)
+[2021.01.28-00.45.20:993][939]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.45.21:005][939]LogInit: FAudioDevice initialized.
+[2021.01.28-00.45.21:021][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.45.21:058][939]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.45.21:060][939]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.45.21
+[2021.01.28-00.45.21:060][939]LogWorld: Bringing up level for play took: 0.001144
+[2021.01.28-00.45.21:074][939]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,063
+[2021.01.28-00.45.30:148][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.45.30:159][  9]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.45.30:194][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.45.30:256][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.01.28-00.46.27:627][104]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.46.28:608][197]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.46.28:624][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.46.28:624][197]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:46:28)
+[2021.01.28-00.46.28:624][197]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.46.28:629][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004398s)
+[2021.01.28-00.46.28:629][197]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.46.28:629][197]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2021.01.28-00.46.28:629][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005149s)
+[2021.01.28-00.46.28:701][197]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.46.28:714][197]LogInit: FAudioDevice initialized.
+[2021.01.28-00.46.28:729][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.46.28:768][197]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.46.28:769][197]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.46.28
+[2021.01.28-00.46.28:770][197]LogWorld: Bringing up level for play took: 0.001144
+[2021.01.28-00.46.28:784][197]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,227
+[2021.01.28-00.46.37:700][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.46.37:710][258]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.46.37:746][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.46.37:806][259]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.01.28-00.46.49:674][679]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.46.49:690][679]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.28-00.46.49:693][679]LogPlayLevel: [PlayLevel] Compiling BP_PlayerPawn before play...
+[2021.01.28-00.46.49:876][679]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2021.01.28-00.46.49:876][679]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:46:49)
+[2021.01.28-00.46.49:876][679]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.46.49:881][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004683s)
+[2021.01.28-00.46.49:881][679]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.46.49:881][679]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2021.01.28-00.46.49:882][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005568s)
+[2021.01.28-00.46.49:955][679]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.46.49:968][679]LogInit: FAudioDevice initialized.
+[2021.01.28-00.46.49:982][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.46.50:020][679]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.46.50:022][679]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.46.50
+[2021.01.28-00.46.50:022][679]LogWorld: Bringing up level for play took: 0.001152
+[2021.01.28-00.46.50:036][679]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,025
+[2021.01.28-00.46.56:290][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.46.56:301][423]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.46.56:332][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.46.56:398][425]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.01.28-00.47.03:909][323]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.47.04:726][397]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.47.04:742][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.47.04:742][397]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:47:04)
+[2021.01.28-00.47.04:742][397]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.47.04:746][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004397s)
+[2021.01.28-00.47.04:747][397]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.47.04:747][397]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2021.01.28-00.47.04:747][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005161s)
+[2021.01.28-00.47.04:820][397]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.47.04:832][397]LogInit: FAudioDevice initialized.
+[2021.01.28-00.47.04:849][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.47.04:887][397]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.47.04:888][397]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.47.04
+[2021.01.28-00.47.04:888][397]LogWorld: Bringing up level for play took: 0.001158
+[2021.01.28-00.47.04:903][397]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,108
+[2021.01.28-00.47.12:468][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.47.12:479][292]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.47.12:514][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.47.12:571][293]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.01.28-00.47.21:598][371]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.47.23:929][627]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.47.23:944][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.47.23:944][627]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:47:23)
+[2021.01.28-00.47.23:944][627]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.47.23:949][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004431s)
+[2021.01.28-00.47.23:949][627]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.47.23:949][627]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2021.01.28-00.47.23:950][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005185s)
+[2021.01.28-00.47.24:016][627]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.47.24:028][627]LogInit: FAudioDevice initialized.
+[2021.01.28-00.47.24:043][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.47.24:082][627]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.47.24:083][627]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.47.24
+[2021.01.28-00.47.24:083][627]LogWorld: Bringing up level for play took: 0.001153
+[2021.01.28-00.47.24:097][627]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,086
+[2021.01.28-00.47.32:629][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.47.32:639][646]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.47.32:674][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.47.32:736][647]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.01.28-00.47.39:638][472]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.47.40:419][542]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.47.40:435][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.47.40:435][542]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:47:40)
+[2021.01.28-00.47.40:435][542]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.47.40:439][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004332s)
+[2021.01.28-00.47.40:440][542]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.47.40:440][542]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2021.01.28-00.47.40:440][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005089s)
+[2021.01.28-00.47.40:512][542]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.47.40:525][542]LogInit: FAudioDevice initialized.
+[2021.01.28-00.47.40:538][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.47.40:579][542]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.47.40:580][542]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.47.40
+[2021.01.28-00.47.40:580][542]LogWorld: Bringing up level for play took: 0.001249
+[2021.01.28-00.47.40:594][542]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,417
+[2021.01.28-00.47.50:655][744]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.47.50:691][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.47.50:752][745]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.01.28-00.48.25:387][843]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.48.25:403][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.48.25:403][843]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:48:25)
+[2021.01.28-00.48.25:403][843]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.48.25:408][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004336s)
+[2021.01.28-00.48.25:408][843]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.48.25:408][843]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2021.01.28-00.48.25:408][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005096s)
+[2021.01.28-00.48.25:475][843]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.48.25:488][843]LogInit: FAudioDevice initialized.
+[2021.01.28-00.48.25:503][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.48.25:538][843]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.48.25:539][843]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.48.25
+[2021.01.28-00.48.25:540][843]LogWorld: Bringing up level for play took: 0.001137
+[2021.01.28-00.48.25:555][843]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,544
+[2021.01.28-00.48.31:573][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.48.31:584][547]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.48.31:619][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.48.31:680][549]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.01.28-00.48.39:926][534]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.48.40:836][620]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.48.40:852][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.48.40:852][620]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:48:40)
+[2021.01.28-00.48.40:852][620]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.48.40:857][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004394s)
+[2021.01.28-00.48.40:857][620]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.48.40:857][620]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2021.01.28-00.48.40:857][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005156s)
+[2021.01.28-00.48.40:928][620]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.48.40:940][620]LogInit: FAudioDevice initialized.
+[2021.01.28-00.48.40:954][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.48.40:990][620]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.48.40:991][620]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.48.40
+[2021.01.28-00.48.40:991][620]LogWorld: Bringing up level for play took: 0.001170
+[2021.01.28-00.48.41:005][620]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,005
+[2021.01.28-00.48.48:312][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.48.48:323][492]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.48.48:357][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.48.48:417][493]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.01.28-00.49.05:109][489]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.49.06:214][598]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.49.06:230][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.49.06:230][598]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:49:06)
+[2021.01.28-00.49.06:230][598]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.49.06:235][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004352s)
+[2021.01.28-00.49.06:235][598]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.49.06:235][598]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2021.01.28-00.49.06:235][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005118s)
+[2021.01.28-00.49.06:305][598]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.49.06:317][598]LogInit: FAudioDevice initialized.
+[2021.01.28-00.49.06:331][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.49.06:368][598]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.49.06:370][598]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.49.06
+[2021.01.28-00.49.06:370][598]LogWorld: Bringing up level for play took: 0.001179
+[2021.01.28-00.49.06:384][598]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,627
+[2021.01.28-00.49.15:342][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.49.15:353][656]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.49.15:389][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.49.15:442][657]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.01.28-00.49.22:399][489]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.49.23:088][548]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.49.23:104][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.49.23:104][548]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:49:23)
+[2021.01.28-00.49.23:104][548]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.49.23:109][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004389s)
+[2021.01.28-00.49.23:109][548]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.49.23:109][548]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2021.01.28-00.49.23:109][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005143s)
+[2021.01.28-00.49.23:182][548]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.49.23:194][548]LogInit: FAudioDevice initialized.
+[2021.01.28-00.49.23:208][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.49.23:246][548]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.49.23:248][548]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.49.23
+[2021.01.28-00.49.23:248][548]LogWorld: Bringing up level for play took: 0.001166
+[2021.01.28-00.49.23:262][548]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,251
+[2021.01.28-00.49.30:752][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.49.30:763][442]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.49.30:798][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.49.30:857][443]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.01.28-00.49.37:374][222]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-00.49.38:173][294]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.49.38:188][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.49.38:189][294]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:49:38)
+[2021.01.28-00.49.38:189][294]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.49.38:193][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004353s)
+[2021.01.28-00.49.38:194][294]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.49.38:194][294]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2021.01.28-00.49.38:194][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005131s)
+[2021.01.28-00.49.38:268][294]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.49.38:281][294]LogInit: FAudioDevice initialized.
+[2021.01.28-00.49.38:296][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.49.38:331][294]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.49.38:332][294]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.49.38
+[2021.01.28-00.49.38:332][294]LogWorld: Bringing up level for play took: 0.001163
+[2021.01.28-00.49.38:346][294]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,665
+[2021.01.28-00.49.54:686][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.49.54:697][250]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.49.54:729][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.49.54:788][251]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.01.28-00.51.05:362][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.51.05:378][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.51.05:378][ 68]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:51:05)
+[2021.01.28-00.51.05:379][ 68]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.51.05:383][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004514s)
+[2021.01.28-00.51.05:384][ 68]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.51.05:384][ 68]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2021.01.28-00.51.05:384][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005398s)
+[2021.01.28-00.51.05:455][ 68]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.51.05:467][ 68]LogInit: FAudioDevice initialized.
+[2021.01.28-00.51.05:481][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.05:521][ 68]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.51.05:522][ 68]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.51.05
+[2021.01.28-00.51.05:522][ 68]LogWorld: Bringing up level for play took: 0.001164
+[2021.01.28-00.51.05:536][ 68]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,525
+[2021.01.28-00.51.19:767][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.19:778][755]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.51.19:813][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.51.19:871][756]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.01.28-00.51.21:738][980]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.51.21:753][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.51.21:753][980]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:51:21)
+[2021.01.28-00.51.21:753][980]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.51.21:758][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004364s)
+[2021.01.28-00.51.21:758][980]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.51.21:758][980]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2021.01.28-00.51.21:758][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005228s)
+[2021.01.28-00.51.21:828][980]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.51.21:840][980]LogInit: FAudioDevice initialized.
+[2021.01.28-00.51.21:854][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.21:893][980]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.51.21:895][980]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.51.21
+[2021.01.28-00.51.21:895][980]LogWorld: Bringing up level for play took: 0.001131
+[2021.01.28-00.51.21:909][980]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,898
+[2021.01.28-00.51.35:041][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.35:052][551]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-00.51.35:090][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.51.35:147][552]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.01.28-00.51.38:041][895]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.51.38:056][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.51.38:056][895]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:51:38)
+[2021.01.28-00.51.38:057][895]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.51.38:061][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004315s)
+[2021.01.28-00.51.38:061][895]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.51.38:062][895]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2021.01.28-00.51.38:062][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005107s)
+[2021.01.28-00.51.38:132][895]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.51.38:145][895]LogInit: FAudioDevice initialized.
+[2021.01.28-00.51.38:177][895]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.51.38:178][895]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.51.38
+[2021.01.28-00.51.38:179][895]LogWorld: Bringing up level for play took: 0.001145
+[2021.01.28-00.51.38:191][895]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,82
+[2021.01.28-00.51.48:063][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.48:100][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.51.48:140][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.48:163][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.01.28-00.51.49:174][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-00.51.49:265][205]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.51.49:281][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.51.49:281][205]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:51:49)
+[2021.01.28-00.51.49:281][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.51.49:285][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004386s)
+[2021.01.28-00.51.49:286][205]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.51.49:286][205]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2021.01.28-00.51.49:286][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005198s)
+[2021.01.28-00.51.49:359][205]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.51.49:371][205]LogInit: FAudioDevice initialized.
+[2021.01.28-00.51.49:402][205]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.51.49:403][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.51.49
+[2021.01.28-00.51.49:403][205]LogWorld: Bringing up level for play took: 0.001150
+[2021.01.28-00.51.49:416][205]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,405
+[2021.01.28-00.51.52:107][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.52:140][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.51.52:178][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.52:213][528]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.01.28-00.51.58:367][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-00.52.00:641][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.52.00:657][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.52.00:657][ 10]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:52:00)
+[2021.01.28-00.52.00:657][ 10]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.52.00:661][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004341s)
+[2021.01.28-00.52.00:662][ 10]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.52.00:662][ 10]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2021.01.28-00.52.00:662][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005110s)
+[2021.01.28-00.52.00:730][ 10]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.52.00:742][ 10]LogInit: FAudioDevice initialized.
+[2021.01.28-00.52.00:775][ 10]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.52.00:776][ 10]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.52.00
+[2021.01.28-00.52.00:776][ 10]LogWorld: Bringing up level for play took: 0.001130
+[2021.01.28-00.52.00:789][ 10]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,222
+[2021.01.28-00.52.16:024][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.52.16:058][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.52.16:094][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.52.16:135][837]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.01.28-00.52.18:393][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-00.52.21:569][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-00.52.22:459][475]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.28-00.52.22:549][477]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.P2OlimpiaRopek
+[2021.01.28-00.52.22:549][477]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.28-00.52.22:549][477]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2021.01.28-00.52.22:549][477]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.28-00.52.22:549][477]LogTemp: BranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2021.01.28-00.52.22:549][477]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kark?wka\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.01.28-00.52.50:228][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-00.52.56:877][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-00.53.04:113][714]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal)
+[2021.01.28-00.53.12:575][719]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal2)
+[2021.01.28-00.53.16:134][133]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal3)
+[2021.01.28-00.53.18:877][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-00.53.19:010][471]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.53.19:026][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.53.19:026][471]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:53:19)
+[2021.01.28-00.53.19:026][471]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.53.19:031][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004340s)
+[2021.01.28-00.53.19:031][471]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.53.19:031][471]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2021.01.28-00.53.19:032][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005123s)
+[2021.01.28-00.53.19:103][471]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.53.19:115][471]LogInit: FAudioDevice initialized.
+[2021.01.28-00.53.19:146][471]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.53.19:147][471]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.53.19
+[2021.01.28-00.53.19:147][471]LogWorld: Bringing up level for play took: 0.001139
+[2021.01.28-00.53.19:160][471]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,149
+[2021.01.28-00.53.33:893][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.53.33:930][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.53.33:968][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.53.34:004][239]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.01.28-00.53.39:599][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-00.53.48:609][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-00.53.49:268][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-00.53.49:351][775]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.53.49:366][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.53.49:366][775]PIE: New page: PIE session: MainLevel (28 sty 2021, 02:53:49)
+[2021.01.28-00.53.49:367][775]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-00.53.49:371][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004324s)
+[2021.01.28-00.53.49:372][775]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-00.53.49:372][775]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2021.01.28-00.53.49:372][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005100s)
+[2021.01.28-00.53.49:442][775]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-00.53.49:454][775]LogInit: FAudioDevice initialized.
+[2021.01.28-00.53.49:488][775]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-00.53.49:489][775]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-01.53.49
+[2021.01.28-00.53.49:489][775]LogWorld: Bringing up level for play took: 0.001135
+[2021.01.28-00.53.49:502][775]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,491
+[2021.01.28-00.54.01:571][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.54.01:609][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.54.01:645][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.54.01:678][221]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.01.28-00.54.29:769][790]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto502EB76B44A9608597B039E8499D3271B.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2021.01.28-00.54.29:772][790]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.092
+[2021.01.28-00.54.29:772][790]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.092
+[2021.01.28-00.54.29:773][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.01.28-00.54.29:789][790]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.01.28-00.54.29:789][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.01.28-00.54.29:816][790]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/BP_PlayerPawn_Auto5E30E3C0E4736B6D6ED1AF9876134218E.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto5.uasset'
+[2021.01.28-00.54.29:817][790]LogFileHelpers: Auto-saving content packages took 0.044
+[2021.01.28-00.55.48:375][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.02.36:142][489]LogSlate: Took 0.015597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.28-01.03.39:666][360]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-01.03.43:430][731]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.03.43:446][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.03.43:446][731]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:03:43)
+[2021.01.28-01.03.43:446][731]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.03.43:450][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004412s)
+[2021.01.28-01.03.43:451][731]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.03.43:451][731]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2021.01.28-01.03.43:451][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005215s)
+[2021.01.28-01.03.43:520][731]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.03.43:533][731]LogInit: FAudioDevice initialized.
+[2021.01.28-01.03.43:572][731]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.03.43:573][731]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.03.43
+[2021.01.28-01.03.43:574][731]LogWorld: Bringing up level for play took: 0.001183
+[2021.01.28-01.03.43:588][731]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,577
+[2021.01.28-01.03.45:827][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.03.46:594][ 38]LogSlate: Window 'BP_PlayerPawn*' being destroyed
+[2021.01.28-01.03.47:031][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.03.52:380][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.03.52:416][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.03.52:457][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.03.52:481][731]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.01.28-01.03.53:296][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.04.21:741][161]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.28-01.04.22:542][232]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.04.22:558][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.04.22:558][232]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:04:22)
+[2021.01.28-01.04.22:559][232]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.04.22:563][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004419s)
+[2021.01.28-01.04.22:564][232]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.04.22:564][232]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2021.01.28-01.04.22:564][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005181s)
+[2021.01.28-01.04.22:634][232]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.04.22:646][232]LogInit: FAudioDevice initialized.
+[2021.01.28-01.04.22:661][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.04.22:700][232]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.04.22:702][232]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.04.22
+[2021.01.28-01.04.22:702][232]LogWorld: Bringing up level for play took: 0.001169
+[2021.01.28-01.04.22:717][232]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,294
+[2021.01.28-01.04.54:966][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.04.54:977][ 79]LogSlate: Window 'P2OlimpiaRopek Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-01.04.55:011][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.04.55:070][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.01.28-01.05.08:990][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.05.24:142][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.05.27:907][902]LogEditorViewport: Clicking Background
+[2021.01.28-01.05.30:165][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.05.38:265][130]LogEditorViewport: Clicking Background
+[2021.01.28-01.05.40:030][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.05.53:433][935]LogEditorViewport: Clicking Background
+[2021.01.28-01.05.56:156][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.06.13:649][325]LogEditorViewport: Clicking Background
+[2021.01.28-01.06.28:146][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal3)
+[2021.01.28-01.06.32:703][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.06.43:711][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.06.50:871][743]LogEditorViewport: Clicking Background
+[2021.01.28-01.07.18:508][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.07.24:057][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.07.29:802][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.07.33:726][811]LogEditorViewport: Clicking Background
+[2021.01.28-01.07.48:813][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.08.03:306][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.08.09:157][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.08.14:768][501]LogEditorViewport: Clicking Background
+[2021.01.28-01.08.24:638][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.08.28:358][ 58]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.28-01.08.32:165][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.08.44:619][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.08.56:607][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.09.04:843][372]LogEditorViewport: Clicking Background
+[2021.01.28-01.09.24:924][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.09.38:964][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.09.42:307][817]LogEditorViewport: Clicking Background
+[2021.01.28-01.09.47:443][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.10.09:121][986]LogEditorViewport: Clicking Background
+[2021.01.28-01.10.14:994][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.10.17:451][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.10.21:901][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.10.32:422][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.11.09:980][766]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.28-01.11.13:171][115]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto653DFDB7E4688914012767D99ED17B84F.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
+[2021.01.28-01.11.13:173][115]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.156
+[2021.01.28-01.11.13:173][115]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.156
+[2021.01.28-01.11.13:174][115]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.01.28-01.11.13:185][115]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.01.28-01.11.13:185][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.01.28-01.11.13:213][115]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/BP_PlayerPawn_Auto6291B5DB6425CE03AEA1C1CB067966B5E.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto6.uasset'
+[2021.01.28-01.11.13:214][115]LogFileHelpers: Auto-saving content packages took 0.040
+[2021.01.28-01.11.47:282][634]Cmd: MODE GRID=0
+[2021.01.28-01.12.02:063][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.12.03:713][576]Cmd: TRANSACTION UNDO
+[2021.01.28-01.12.03:713][576]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.12.03:723][576]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.12.03:723][576]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.12.03:723][576]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.12.11:826][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.12.13:524][544]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.28-01.12.31:864][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.12.53:836][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.12.57:296][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.12.59:737][657]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.28-01.13.01:267][838]LogGeometryMode: Warning: Unable to find BoxBrush_5 Brush(s) in new BSP
+[2021.01.28-01.13.01:267][838]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.13.02:926][ 28]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2021.01.28-01.13.02:926][ 28]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.13.08:711][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.13.17:178][708]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush7)
+[2021.01.28-01.13.17:210][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.13.17:966][793]LogEditorViewport: Clicking Background
+[2021.01.28-01.13.20:918][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.13.22:173][146]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.28-01.13.25:976][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.13.26:109][610]Cmd: MODE ROTGRID=0
+[2021.01.28-01.13.27:584][785]Cmd: MODE ROTGRID=1
+[2021.01.28-01.13.51:754][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.13.53:480][743]Cmd: MODE ROTGRID=0
+[2021.01.28-01.13.53:960][800]Cmd: MODE ROTGRID=1
+[2021.01.28-01.14.01:318][667]Cmd: POLY SELECT ALL
+[2021.01.28-01.14.05:958][198]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2021.01.28-01.14.06:379][244]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2021.01.28-01.14.07:340][352]LogEditorViewport: Clicking Background
+[2021.01.28-01.14.11:178][797]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2021.01.28-01.14.11:608][844]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2021.01.28-01.14.11:914][876]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2021.01.28-01.14.14:520][176]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2021.01.28-01.14.16:912][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.14.18:221][467]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.28-01.14.41:369][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.14.59:723][118]LogGeometryMode: Warning: Unable to find BoxBrush_5 Brush(s) in new BSP
+[2021.01.28-01.14.59:723][118]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.15.02:264][371]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush)
+[2021.01.28-01.15.02:293][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.15.05:542][692]LogEditorViewport: Clicking Background
+[2021.01.28-01.15.20:117][348]Cmd: TRANSACTION UNDO
+[2021.01.28-01.15.20:117][348]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.15.20:129][348]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.15.20:129][348]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.15.20:129][348]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.15.29:662][416]Cmd: TRANSACTION UNDO
+[2021.01.28-01.15.29:662][416]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.15.29:674][416]LogGeometryMode: Warning: Unable to find 8 Poly(s) in new BSP
+[2021.01.28-01.15.29:674][416]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.15.29:674][416]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.15.45:542][161]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Crystal_C (BP_Crystal2)
+[2021.01.28-01.15.46:389][256]Cmd: TRANSACTION UNDO
+[2021.01.28-01.15.46:389][256]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.28-01.15.51:121][791]Cmd: TRANSACTION UNDO
+[2021.01.28-01.15.51:121][791]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.15.51:133][791]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.15.51:133][791]LogGeometryMode: Warning: Unable to find 14 Poly(s) in new BSP
+[2021.01.28-01.15.51:133][791]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.15.51:133][791]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.16.44:086][622]Cmd: TRANSACTION UNDO
+[2021.01.28-01.16.44:086][622]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.16.53:012][568]Cmd: TRANSACTION UNDO
+[2021.01.28-01.16.53:012][568]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.16.53:024][568]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.16.53:024][568]LogGeometryMode: Warning: Unable to find 9 Poly(s) in new BSP
+[2021.01.28-01.16.53:024][568]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.16.53:024][568]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.16.56:277][930]Cmd: TRANSACTION UNDO
+[2021.01.28-01.16.56:277][930]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.16.56:288][930]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.16.56:288][930]LogGeometryMode: Warning: Unable to find 8 Poly(s) in new BSP
+[2021.01.28-01.16.56:289][930]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.16.56:289][930]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.17.14:932][916]LogGeometryMode: Warning: Unable to find BoxBrush_5 Brush(s) in new BSP
+[2021.01.28-01.17.14:932][916]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.17.18:554][262]LogEditorViewport: Clicking Background
+[2021.01.28-01.17.23:446][809]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.23:446][809]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.17.23:986][867]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.23:986][867]LogEditorTransaction: Undo Clicking Background
+[2021.01.28-01.17.24:541][927]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.24:541][927]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.17.25:088][987]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.25:088][987]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.17.25:536][ 35]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.25:536][ 35]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.17.26:544][150]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.26:544][150]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.17.26:557][150]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.17.26:557][150]LogGeometryMode: Warning: Unable to find 5 Poly(s) in new BSP
+[2021.01.28-01.17.26:557][150]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.17.26:557][150]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.17.27:047][206]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.27:047][206]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.17.27:059][206]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.17.27:060][206]LogGeometryMode: Warning: Unable to find 5 Poly(s) in new BSP
+[2021.01.28-01.17.27:060][206]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.17.27:060][206]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.17.38:831][519]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.38:831][519]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.17.38:843][519]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.17.38:844][519]LogGeometryMode: Warning: Unable to find 5 Poly(s) in new BSP
+[2021.01.28-01.17.38:844][519]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.17.38:844][519]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.17.44:996][211]Cmd: TRANSACTION UNDO
+[2021.01.28-01.17.44:996][211]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.17.45:008][211]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.17.45:008][211]LogGeometryMode: Warning: Unable to find 5 Poly(s) in new BSP
+[2021.01.28-01.17.45:008][211]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.17.45:008][211]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.17.45:739][282]LogEditorViewport: Clicking Background
+[2021.01.28-01.18.10:012][901]LogEditorViewport: Clicking Background
+[2021.01.28-01.18.18:683][907]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.18:683][907]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.19:113][933]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.19:113][933]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.18.19:545][982]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.19:545][982]LogEditorTransaction: Undo Clicking Background
+[2021.01.28-01.18.19:887][ 18]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.19:887][ 18]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.20:185][ 48]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.20:185][ 48]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.20:197][ 48]LogGeometryMode: Warning: Unable to find 4 Poly(s) in new BSP
+[2021.01.28-01.18.20:197][ 48]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.18.20:197][ 48]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.18.20:414][ 70]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.20:414][ 70]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.20:671][ 95]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.20:671][ 95]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.20:896][118]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.20:896][118]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.21:154][145]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.21:154][145]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.21:422][173]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.21:422][173]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.18.23:066][361]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.23:066][361]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.18.23:298][388]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.23:298][388]LogEditorTransaction: Undo Clicking Background
+[2021.01.28-01.18.23:543][413]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.23:543][413]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.23:814][441]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.23:814][441]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.23:826][441]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.18.23:826][441]LogGeometryMode: Warning: Unable to find 6 Poly(s) in new BSP
+[2021.01.28-01.18.23:826][441]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.18.23:826][441]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.18.24:070][466]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.24:070][466]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.24:342][494]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.24:342][494]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.24:661][528]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.24:661][528]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.24:943][557]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.24:943][557]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.25:220][586]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.25:220][586]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.25:467][611]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.25:467][611]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.25:723][637]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.25:723][637]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.25:985][664]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.25:985][664]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.26:211][688]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.26:211][688]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.26:445][713]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.26:445][713]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.26:728][744]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.26:728][744]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.27:058][779]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.27:058][779]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.30:523][  9]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.30:523][  9]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.30:807][ 32]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.30:807][ 32]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.31:111][ 58]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.31:111][ 58]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.31:406][ 89]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.31:406][ 89]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.31:663][117]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.31:663][117]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.31:930][146]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.31:930][146]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.32:187][174]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.32:187][174]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.32:434][199]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.32:434][199]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.32:720][229]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.32:720][229]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.32:981][256]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.32:981][256]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.33:214][281]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.33:214][281]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.33:226][281]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.18.33:227][281]LogGeometryMode: Warning: Unable to find 17 Poly(s) in new BSP
+[2021.01.28-01.18.33:227][281]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.18.33:227][281]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.18.33:446][303]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.33:446][303]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.33:458][303]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.18.33:458][303]LogGeometryMode: Warning: Unable to find 17 Poly(s) in new BSP
+[2021.01.28-01.18.33:459][303]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.18.33:459][303]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.18.33:724][332]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.33:724][332]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.33:979][358]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.33:979][358]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.34:235][384]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.34:235][384]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.34:486][410]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.34:486][410]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.34:498][410]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.18.34:498][410]LogGeometryMode: Warning: Unable to find 14 Poly(s) in new BSP
+[2021.01.28-01.18.34:498][410]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.18.34:499][410]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.18.34:735][433]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.34:735][433]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.35:023][462]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.35:023][462]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.35:320][492]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.35:320][492]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.35:588][520]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.35:588][520]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.35:863][549]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.35:863][549]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.36:155][580]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.36:155][580]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.36:439][610]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.36:439][610]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.36:714][639]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.36:714][639]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.36:989][668]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.36:989][668]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.37:308][702]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.37:308][702]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.37:586][730]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.37:586][730]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.37:911][765]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.37:911][765]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.38:298][807]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.38:298][807]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.38:681][849]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.38:681][849]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.39:090][894]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.39:090][894]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.39:490][938]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.39:490][938]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.39:799][971]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.39:799][971]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.18.40:073][  2]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.40:073][  2]LogEditorTransaction: Undo Clicking Background
+[2021.01.28-01.18.40:609][ 60]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.40:609][ 60]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.41:004][102]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.41:004][102]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.01.28-01.18.41:310][133]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.41:310][133]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.18.41:615][164]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.41:615][164]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.41:997][204]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.41:997][204]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.42:343][241]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.42:344][241]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.42:668][277]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.42:668][277]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.42:960][309]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.42:960][309]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.43:259][342]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.43:259][342]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.43:517][370]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.43:517][370]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.18.43:767][397]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.43:767][397]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.43:779][397]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.18.43:779][397]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.18.43:779][397]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.18.44:040][424]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.44:040][424]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.44:051][424]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.18.44:051][424]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.18.44:051][424]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.18.44:317][453]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.44:317][453]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.28-01.18.44:837][511]Cmd: TRANSACTION UNDO
+[2021.01.28-01.18.44:837][511]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.18.44:848][511]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.18.44:849][511]LogGeometryMode: Warning: Unable to resolve BoxBrush7 Brush in new BSP, see above
+[2021.01.28-01.18.44:849][511]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.18.54:371][556]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2021.01.28-01.19.12:570][599]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2021.01.28-01.19.13:777][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.19.22:711][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.19.24:322][945]Cmd: MODE GRID=1
+[2021.01.28-01.19.24:803][  2]Cmd: MODE GRID=0
+[2021.01.28-01.19.25:421][ 73]Cmd: MODE ROTGRID=0
+[2021.01.28-01.19.26:043][147]Cmd: MODE ROTGRID=1
+[2021.01.28-01.19.27:064][266]Cmd: MODE SCALEGRID=0
+[2021.01.28-01.19.27:561][325]Cmd: MODE SCALEGRID=1
+[2021.01.28-01.19.29:850][594]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush7)
+[2021.01.28-01.19.29:879][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.19.39:412][865]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.28-01.19.53:166][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.20.23:278][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.20.23:402][797]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.20.36:925][329]LogGeometryMode: Warning: Unable to find BoxBrush_5 Brush(s) in new BSP
+[2021.01.28-01.20.36:925][329]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.20.43:172][ 24]LogEditorViewport: Clicking Background
+[2021.01.28-01.20.47:999][498]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.47:999][498]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.20.48:412][533]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.48:412][533]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.20.49:010][602]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.49:010][602]LogEditorTransaction: Undo Clicking Background
+[2021.01.28-01.20.49:504][655]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.49:504][655]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.20.49:939][702]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.49:939][702]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.28-01.20.50:368][748]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.50:368][748]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.28-01.20.50:761][791]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.50:761][791]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.28-01.20.51:152][834]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.51:152][834]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.28-01.20.51:576][881]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.51:576][881]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.28-01.20.52:324][965]Cmd: TRANSACTION UNDO
+[2021.01.28-01.20.52:324][965]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.20.53:699][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.21.04:691][394]LogEditorViewport: Clicking Background
+[2021.01.28-01.21.05:509][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.21.11:322][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.21.13:056][353]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.28-01.21.13:865][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.21.18:112][894]LogEditorViewport: Clicking Background
+[2021.01.28-01.21.20:419][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.21.26:493][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.21.26:577][823]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.21.26:594][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.21.26:594][823]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:21:26)
+[2021.01.28-01.21.26:594][823]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.21.26:600][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005449s)
+[2021.01.28-01.21.26:601][823]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.21.26:601][823]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2021.01.28-01.21.26:601][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.006617s)
+[2021.01.28-01.21.26:674][823]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.21.26:688][823]LogInit: FAudioDevice initialized.
+[2021.01.28-01.21.26:718][823]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.21.26:719][823]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.21.26
+[2021.01.28-01.21.26:720][823]LogWorld: Bringing up level for play took: 0.001175
+[2021.01.28-01.21.26:733][823]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,278
+[2021.01.28-01.21.42:451][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.21.42:490][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.21.42:532][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.21.42:553][706]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.01.28-01.21.43:916][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.21.43:999][877]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.21.44:015][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.21.44:015][877]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:21:44)
+[2021.01.28-01.21.44:015][877]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.21.44:020][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005172s)
+[2021.01.28-01.21.44:021][877]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.21.44:021][877]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2021.01.28-01.21.44:021][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005967s)
+[2021.01.28-01.21.44:093][877]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.21.44:105][877]LogInit: FAudioDevice initialized.
+[2021.01.28-01.21.44:135][877]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.21.44:137][877]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.21.44
+[2021.01.28-01.21.44:137][877]LogWorld: Bringing up level for play took: 0.001161
+[2021.01.28-01.21.44:150][877]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,139
+[2021.01.28-01.22.03:926][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.22.03:967][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.22.04:009][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.22.04:032][245]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.01.28-01.22.14:065][408]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal2)
+[2021.01.28-01.22.34:326][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.22.39:603][368]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.28-01.22.41:128][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.23.00:173][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.23.14:658][ 15]LogEditorViewport: Clicking Background
+[2021.01.28-01.23.21:932][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.23.23:213][983]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.28-01.23.26:322][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.23.47:596][885]Cmd: MODE ROTGRID=0
+[2021.01.28-01.23.48:027][936]Cmd: MODE ROTGRID=1
+[2021.01.28-01.24.05:713][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.24.15:410][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.24.18:516][527]LogEditorViewport: Clicking Background
+[2021.01.28-01.24.32:069][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.24.33:225][233]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.28-01.24.42:026][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.24.43:066][394]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.28-01.24.43:757][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.24.48:494][ 10]LogEditorViewport: Clicking Background
+[2021.01.28-01.24.55:325][806]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2021.01.28-01.25.00:479][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.25.02:223][580]MapCheck: New page: Map Check
+[2021.01.28-01.25.02:238][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.25.02:243][580]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.28-01.25.02:249][580]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.28-01.25.02:343][580]LightingResults: New page: Lighting Build - 28 sty 2021, 03:25:02
+[2021.01.28-01.25.02:381][580]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.28-01.25.02:437][580]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.28-01.25.02:449][580]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.28-01.25.02:958][580]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.28-01.25.02:958][580]LogSwarmInterface: [TryOpenConnection] Local Process ID is 292
+[2021.01.28-01.25.09:412][580]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.01.28-01.25.09:412][580]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.28-01.25.09:412][580]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.28-01.25.09:412][580]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.28-01.25.09:412][580]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.28-01.25.09:412][580]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.28-01.25.09:582][580]LogEditorBuildUtils: Build time 0:07
+[2021.01.28-01.25.09:592][580]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Grass, compiling. 
+[2021.01.28-01.25.09:605][580]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.28-01.25.09:605][580]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Grass, compiling. 
+[2021.01.28-01.25.09:624][581]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.28-01.25.09:631][581]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Old, compiling. 
+[2021.01.28-01.25.09:638][581]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.28-01.25.09:638][581]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Old, compiling. 
+[2021.01.28-01.25.09:642][581]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.28-01.25.12:770][724]Job is a success!
+[2021.01.28-01.25.12:813][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.25.12:853][725]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2021.01.28-01.25.12:853][725]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.28-01.25.12:853][725]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.01.28-01.25.12:853][725]LogVolumetricLightmapImport:      Bricks at Level
+[2021.01.28-01.25.12:853][725]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2021.01.28-01.25.12:853][725]LogVolumetricLightmapImport:          1: 10.0% covering 3.1% of volume
+[2021.01.28-01.25.12:853][725]LogVolumetricLightmapImport:          2: 85.0% covering 0.4% of volume
+[2021.01.28-01.25.13:054][725]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.01.28-01.25.13:054][725]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.01.28-01.25.13:054][725]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.01.28-01.25.13:054][725]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2021.01.28-01.25.13:085][725]Lightmass on DESKTOP-K8UO9K4: 1.89 sec total, 97 ms importing, 3 ms setup, 1.01 sec photons, 733 ms processing, 0 ms extra exporting [79/79 mappings]. Threads: 10.0 sec total, 361 ms processing.
+[2021.01.28-01.25.13:145][725]LogStaticLightingSystem: Illumination: 10.7 sec (107 ms encoding lightmaps, 63 ms encoding shadowmaps)
+[2021.01.28-01.25.13:145][725]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 2 textures
+[2021.01.28-01.25.13:145][725]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2021.01.28-01.25.13:421][725]DumpUnbuiltLightIteractions
+[2021.01.28-01.25.13:421][725]Lights with unbuilt interactions: 0
+[2021.01.28-01.25.13:421][725]
+[2021.01.28-01.25.13:421][725]Primitives with unbuilt interactions: 0
+[2021.01.28-01.25.13:431][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.25.13:457][726]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.28-01.25.13:457][726]MapCheck: New page: MainLevel - 28 sty 2021, 03:25:13
+[2021.01.28-01.25.13:602][726]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 145,091ms to complete.
+[2021.01.28-01.25.15:628][939]LogEditorViewport: Clicking Background
+[2021.01.28-01.25.30:325][678]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal3)
+[2021.01.28-01.25.35:310][215]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2021.01.28-01.25.37:709][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.25.42:417][ 43]Cmd: TRANSACTION UNDO
+[2021.01.28-01.25.42:417][ 43]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.25.48:154][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.25.48:295][716]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.25.59:931][  3]Cmd: TRANSACTION UNDO
+[2021.01.28-01.25.59:931][  3]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.25.59:943][  3]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.25.59:943][  3]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2021.01.28-01.25.59:943][  3]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.26.01:185][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.26.10:530][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.26.10:629][176]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.26.34:642][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.26.43:191][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.26.43:299][968]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.26.55:444][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.27.04:978][528]Cmd: TRANSACTION UNDO
+[2021.01.28-01.27.04:978][528]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.27.04:991][528]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.27.04:991][528]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2021.01.28-01.27.04:991][528]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.27.06:151][652]Cmd: TRANSACTION UNDO
+[2021.01.28-01.27.06:151][652]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.27.06:164][652]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.27.06:164][652]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2021.01.28-01.27.06:164][652]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.27.06:630][705]Cmd: TRANSACTION UNDO
+[2021.01.28-01.27.06:630][705]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.27.06:643][705]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.27.06:643][705]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2021.01.28-01.27.06:643][705]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.27.23:442][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.27.23:551][679]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.27.45:359][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.27.48:992][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.27.49:128][825]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto7AB2549154EB07886E49BCAB797C198DE.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2021.01.28-01.27.49:150][825]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.137
+[2021.01.28-01.27.49:150][825]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.137
+[2021.01.28-01.27.49:152][825]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/MainLevel_BuiltData] ([1] browsable assets)...
+[2021.01.28-01.27.49:152][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainLevel_BuiltData]
+[2021.01.28-01.27.49:165][825]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_BuiltData_Auto7AEECDF2B42189B4AA77E8C933FD1CF5E.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_BuiltData_Auto7.uasset'
+[2021.01.28-01.27.49:166][825]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.01.28-01.27.50:720][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.27.50:811][ 19]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.28.00:262][118]LogGeometryMode: Warning: Unable to find BoxBrush_5 Brush(s) in new BSP
+[2021.01.28-01.28.00:263][118]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.28.02:072][326]LogEditorViewport: Clicking Background
+[2021.01.28-01.28.02:874][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.28.05:923][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.28.05:923][719]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:28:05)
+[2021.01.28-01.28.05:923][719]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.28.05:929][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005954s)
+[2021.01.28-01.28.05:930][719]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.28.05:930][719]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2021.01.28-01.28.05:930][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.007343s)
+[2021.01.28-01.28.06:002][719]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.28.06:015][719]LogInit: FAudioDevice initialized.
+[2021.01.28-01.28.06:015][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.28.06:045][719]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.28.06:047][719]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.28.06
+[2021.01.28-01.28.06:047][719]LogWorld: Bringing up level for play took: 0.001176
+[2021.01.28-01.28.06:060][719]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,049
+[2021.01.28-01.28.13:028][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.28.13:071][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.28.13:114][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.28.13:135][552]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.01.28-01.28.21:848][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.28.23:349][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.28.23:349][714]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:28:23)
+[2021.01.28-01.28.23:349][714]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.28.23:355][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006060s)
+[2021.01.28-01.28.23:356][714]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.28.23:356][714]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2021.01.28-01.28.23:356][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.006889s)
+[2021.01.28-01.28.23:423][714]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.28.23:436][714]LogInit: FAudioDevice initialized.
+[2021.01.28-01.28.23:436][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.28.23:470][714]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.28.23:471][714]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.28.23
+[2021.01.28-01.28.23:472][714]LogWorld: Bringing up level for play took: 0.001180
+[2021.01.28-01.28.23:484][714]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-41.267 Y=62.719 Z=104.600] for [BP_PlayerPawn_C]
+[2021.01.28-01.28.23:484][714]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_PlayerPawn_C at Rotation: Pitch 0.000000 Yaw -151.600067 Roll 0.000000
+Translation: -41.266537 62.719437 104.600060
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.01.28-01.28.23:484][714]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,473
+[2021.01.28-01.28.26:419][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.28.26:460][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.28.26:502][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.28.26:523][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.01.28-01.28.35:099][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.28.36:612][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.28.36:612][195]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:28:36)
+[2021.01.28-01.28.36:612][195]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.28.36:619][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006666s)
+[2021.01.28-01.28.36:619][195]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.28.36:620][195]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2021.01.28-01.28.36:620][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.007591s)
+[2021.01.28-01.28.36:690][195]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.28.36:702][195]LogInit: FAudioDevice initialized.
+[2021.01.28-01.28.36:702][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.28.36:733][195]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.28.36:734][195]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.28.36
+[2021.01.28-01.28.36:735][195]LogWorld: Bringing up level for play took: 0.001217
+[2021.01.28-01.28.36:749][195]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,263
+[2021.01.28-01.29.24:723][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.29.24:761][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.29.24:802][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.29.24:825][944]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.01.28-01.29.42:764][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.29.42:863][877]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.29.42:879][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.29.42:880][877]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:29:42)
+[2021.01.28-01.29.42:880][877]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.29.42:885][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005764s)
+[2021.01.28-01.29.42:886][877]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.29.42:886][877]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2021.01.28-01.29.42:886][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.006570s)
+[2021.01.28-01.29.42:955][877]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.29.42:968][877]LogInit: FAudioDevice initialized.
+[2021.01.28-01.29.43:001][877]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.29.43:003][877]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.29.43
+[2021.01.28-01.29.43:003][877]LogWorld: Bringing up level for play took: 0.001217
+[2021.01.28-01.29.43:016][877]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,005
+[2021.01.28-01.29.49:822][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.29.49:858][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.29.49:900][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.29.49:921][693]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.01.28-01.29.58:150][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.29.59:722][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.29.59:722][785]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:29:59)
+[2021.01.28-01.29.59:722][785]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.29.59:728][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005820s)
+[2021.01.28-01.29.59:729][785]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.29.59:729][785]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2021.01.28-01.29.59:729][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.006650s)
+[2021.01.28-01.29.59:801][785]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.29.59:813][785]LogInit: FAudioDevice initialized.
+[2021.01.28-01.29.59:813][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.29.59:846][785]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.29.59:847][785]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.29.59
+[2021.01.28-01.29.59:848][785]LogWorld: Bringing up level for play took: 0.001228
+[2021.01.28-01.29.59:861][785]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,85
+[2021.01.28-01.30.18:238][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.30.18:275][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.30.18:316][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.30.18:340][987]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.01.28-01.30.22:470][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.30.23:936][602]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.28-01.30.25:271][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.30.29:500][234]LogEditorViewport: Clicking Background
+[2021.01.28-01.30.52:305][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.30.54:282][186]LogActorFactory: Actor Factory created Cube
+[2021.01.28-01.30.54:930][247]LogActorFactory: Actor Factory created Cube
+[2021.01.28-01.30.56:124][382]Cmd: TRANSACTION UNDO
+[2021.01.28-01.30.56:124][382]LogEditorTransaction: Undo Create Actors
+[2021.01.28-01.30.56:933][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.30.59:626][765]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.28-01.31.02:466][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.31.19:718][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.31.33:898][721]LogEditorViewport: Clicking Background
+[2021.01.28-01.31.44:361][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.31.52:497][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.31.52:614][908]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.32.06:398][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.32.14:338][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.32.14:438][429]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.32.17:239][764]Cmd: TRANSACTION UNDO
+[2021.01.28-01.32.17:239][764]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.32.17:253][764]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.32.17:253][764]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2021.01.28-01.32.17:253][764]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.32.17:889][824]Cmd: TRANSACTION UNDO
+[2021.01.28-01.32.17:889][824]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.32.17:903][824]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.32.17:903][824]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2021.01.28-01.32.17:903][824]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.32.22:257][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.32.32:182][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.32.32:348][526]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.32.52:559][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.32.59:506][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.32.59:613][527]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.33.09:313][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.33.36:682][709]Cmd: TRANSACTION UNDO
+[2021.01.28-01.33.36:682][709]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.33.36:697][709]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.01.28-01.33.36:697][709]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2021.01.28-01.33.36:697][709]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.34.09:695][282]LogEditorViewport: Clicking Background
+[2021.01.28-01.34.17:448][204]Cmd: TRANSACTION UNDO
+[2021.01.28-01.34.17:448][204]LogEditorTransaction: Undo Clicking Background
+[2021.01.28-01.34.23:143][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.34.23:636][898]LogEditorViewport: Clicking Background
+[2021.01.28-01.34.38:371][612]LogGeometryMode: Warning: Unable to find BoxBrush2_7 Brush(s) in new BSP
+[2021.01.28-01.34.38:371][612]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.34.39:190][704]LogEditorViewport: Clicking Background
+[2021.01.28-01.34.46:256][504]Cmd: TRANSACTION UNDO
+[2021.01.28-01.34.46:256][504]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.34.49:453][859]LogEditorViewport: Clicking Background
+[2021.01.28-01.35.05:643][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.35.05:751][659]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.35.20:320][377]Cmd: TRANSACTION UNDO
+[2021.01.28-01.35.20:320][377]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.35.20:335][377]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.35.20:335][377]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2021.01.28-01.35.20:335][377]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.35.21:737][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.35.28:171][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.35.28:271][269]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.35.38:704][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.35.44:594][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.35.44:685][122]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.35.57:092][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.36.07:717][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.36.07:799][629]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.36.17:297][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.36.25:990][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.36.26:097][667]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.36.34:842][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.36.41:522][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.36.41:630][374]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.36.58:108][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.37.10:249][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.37.10:390][562]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.37.16:700][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.37.22:468][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.37.22:567][859]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.37.27:620][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.37.41:546][934]LogEditorViewport: Clicking Background
+[2021.01.28-01.37.44:943][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.37.46:136][429]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.28-01.37.47:047][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.37.50:240][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.37.50:750][880]LogEditorViewport: Clicking Background
+[2021.01.28-01.37.53:051][130]LogEditorViewport: Clicking Background
+[2021.01.28-01.37.53:645][199]LogEditorViewport: Clicking Background
+[2021.01.28-01.37.54:725][319]LogEditorViewport: Clicking Background
+[2021.01.28-01.37.55:187][373]LogEditorViewport: Clicking Background
+[2021.01.28-01.37.56:410][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.38.04:714][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.38.28:503][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.38.37:959][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.38.49:304][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.38.51:203][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.38.51:203][832]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:38:51)
+[2021.01.28-01.38.51:204][832]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.38.51:211][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007188s)
+[2021.01.28-01.38.51:211][832]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.38.51:212][832]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2021.01.28-01.38.51:212][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.008170s)
+[2021.01.28-01.38.51:283][832]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.38.51:296][832]LogInit: FAudioDevice initialized.
+[2021.01.28-01.38.51:297][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.38.51:333][832]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.38.51:335][832]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.38.51
+[2021.01.28-01.38.51:335][832]LogWorld: Bringing up level for play took: 0.001266
+[2021.01.28-01.38.51:348][832]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,337
+[2021.01.28-01.39.02:020][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.39.02:061][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.39.02:103][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.39.02:125][109]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.01.28-01.39.12:176][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.39.13:861][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.39.13:861][443]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:39:13)
+[2021.01.28-01.39.13:861][443]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.39.13:868][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007059s)
+[2021.01.28-01.39.13:869][443]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.39.13:869][443]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2021.01.28-01.39.13:869][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.007907s)
+[2021.01.28-01.39.13:937][443]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.39.13:950][443]LogInit: FAudioDevice initialized.
+[2021.01.28-01.39.13:950][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.39.13:985][443]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.39.13:986][443]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.39.13
+[2021.01.28-01.39.13:987][443]LogWorld: Bringing up level for play took: 0.001272
+[2021.01.28-01.39.14:000][443]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,988
+[2021.01.28-01.39.24:985][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.39.25:027][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.39.25:069][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.39.25:090][758]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.01.28-01.39.41:900][649]LogGeometryMode: Warning: Unable to find BoxBrush_5 Brush(s) in new BSP
+[2021.01.28-01.39.41:900][649]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.39.41:951][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.39.43:078][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.39.43:078][765]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:39:43)
+[2021.01.28-01.39.43:078][765]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.39.43:085][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007503s)
+[2021.01.28-01.39.43:086][765]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.39.43:086][765]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2021.01.28-01.39.43:086][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.008366s)
+[2021.01.28-01.39.43:160][765]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.39.43:172][765]LogInit: FAudioDevice initialized.
+[2021.01.28-01.39.43:172][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.39.43:202][765]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.39.43:203][765]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.39.43
+[2021.01.28-01.39.43:204][765]LogWorld: Bringing up level for play took: 0.001289
+[2021.01.28-01.39.43:217][765]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,206
+[2021.01.28-01.40.06:623][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.40.06:663][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.40.06:706][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.40.06:727][566]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.01.28-01.40.09:791][932]Cmd: SELECT NONE
+[2021.01.28-01.40.29:562][269]Cmd: DELETE
+[2021.01.28-01.40.29:586][269]Cmd: ACTOR DELETE
+[2021.01.28-01.40.29:601][269]LogEditorActor: Deleted Actor: Brush
+[2021.01.28-01.40.29:647][269]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.01.28-01.40.43:952][960]LogEditorViewport: Clicking Background
+[2021.01.28-01.40.54:509][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.40.59:315][752]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.28-01.41.00:690][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.41.16:188][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.41.27:438][ 76]LogEditorViewport: Clicking Background
+[2021.01.28-01.41.29:451][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.41.37:935][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.41.38:059][285]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.41.44:282][  1]Cmd: TRANSACTION UNDO
+[2021.01.28-01.41.44:282][  1]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.41.44:296][  1]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.41.44:296][  1]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.41.44:296][  1]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.41.49:028][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.41.53:266][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.41.53:358][ 25]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.42.14:461][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.42.34:039][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.42.34:130][584]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.42.45:832][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.42.50:287][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.42.50:395][374]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.42.59:046][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.43.02:095][742]Cmd: TRANSACTION UNDO
+[2021.01.28-01.43.02:095][742]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.43.02:847][814]Cmd: TRANSACTION UNDO
+[2021.01.28-01.43.02:847][814]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.43.09:001][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.43.09:101][518]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.43.22:178][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.43.32:947][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.43.33:030][240]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.43.46:495][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.43.53:625][567]Cmd: TRANSACTION UNDO
+[2021.01.28-01.43.53:625][567]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.43.53:641][567]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.43.53:641][567]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.43.53:641][567]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.43.53:987][583]Cmd: TRANSACTION UNDO
+[2021.01.28-01.43.53:987][583]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.43.54:003][583]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.43.54:003][583]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.43.54:003][583]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.43.54:239][595]Cmd: TRANSACTION UNDO
+[2021.01.28-01.43.54:239][595]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.43.54:255][595]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.43.54:255][595]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.43.54:255][595]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.44.00:749][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.44.00:856][342]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.44.14:368][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.44.20:224][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.44.20:332][467]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.44.35:914][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.44.42:614][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.44.42:722][970]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.44.55:199][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.45.00:639][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.45.00:738][956]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.45.07:556][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.45.07:647][693]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2021.01.28-01.45.12:942][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.45.38:291][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.45.42:005][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.45.43:059][565]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.28-01.45.43:480][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.45.54:268][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.45.56:326][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.45.56:326][  4]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:45:56)
+[2021.01.28-01.45.56:326][  4]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.45.56:334][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007907s)
+[2021.01.28-01.45.56:335][  4]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.45.56:335][  4]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2021.01.28-01.45.56:335][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009056s)
+[2021.01.28-01.45.56:412][  4]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.45.56:426][  4]LogInit: FAudioDevice initialized.
+[2021.01.28-01.45.56:426][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.45.56:459][  4]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.45.56:461][  4]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.45.56
+[2021.01.28-01.45.56:461][  4]LogWorld: Bringing up level for play took: 0.001396
+[2021.01.28-01.45.56:474][  4]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,537
+[2021.01.28-01.46.11:014][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.46.11:051][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.46.11:096][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.46.11:117][745]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.01.28-01.46.17:675][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.46.19:104][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.46.19:105][638]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:46:19)
+[2021.01.28-01.46.19:105][638]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.46.19:112][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006762s)
+[2021.01.28-01.46.19:112][638]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.46.19:112][638]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2021.01.28-01.46.19:112][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.007575s)
+[2021.01.28-01.46.19:183][638]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.46.19:195][638]LogInit: FAudioDevice initialized.
+[2021.01.28-01.46.19:195][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.46.19:229][638]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.46.19:231][638]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.46.19
+[2021.01.28-01.46.19:231][638]LogWorld: Bringing up level for play took: 0.001243
+[2021.01.28-01.46.19:244][638]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,233
+[2021.01.28-01.46.28:878][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.46.28:914][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.46.28:959][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.46.28:981][791]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.01.28-01.46.31:674][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.46.33:180][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.46.33:181][214]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:46:33)
+[2021.01.28-01.46.33:181][214]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.46.33:188][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006892s)
+[2021.01.28-01.46.33:188][214]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.46.33:188][214]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2021.01.28-01.46.33:188][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.007702s)
+[2021.01.28-01.46.33:258][214]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.46.33:271][214]LogInit: FAudioDevice initialized.
+[2021.01.28-01.46.33:271][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.46.33:301][214]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.46.33:303][214]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.46.33
+[2021.01.28-01.46.33:303][214]LogWorld: Bringing up level for play took: 0.001290
+[2021.01.28-01.46.33:316][214]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,305
+[2021.01.28-01.46.51:661][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.46.51:699][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.46.51:739][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.46.51:762][412]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.01.28-01.46.55:265][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.46.57:169][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.46.57:169][  2]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:46:57)
+[2021.01.28-01.46.57:169][  2]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.46.57:176][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006881s)
+[2021.01.28-01.46.57:177][  2]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.46.57:177][  2]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2021.01.28-01.46.57:177][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.007693s)
+[2021.01.28-01.46.57:247][  2]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.46.57:260][  2]LogInit: FAudioDevice initialized.
+[2021.01.28-01.46.57:260][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.46.57:293][  2]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.46.57:295][  2]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.46.57
+[2021.01.28-01.46.57:295][  2]LogWorld: Bringing up level for play took: 0.001279
+[2021.01.28-01.46.57:308][  2]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,297
+[2021.01.28-01.47.16:083][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.47.16:120][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.47.16:160][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.47.16:183][247]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.01.28-01.47.21:600][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.47.25:698][336]Cmd: TRANSACTION UNDO
+[2021.01.28-01.47.25:698][336]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.47.33:225][130]Cmd: TRANSACTION UNDO
+[2021.01.28-01.47.33:225][130]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.47.38:531][677]Cmd: TRANSACTION UNDO
+[2021.01.28-01.47.38:531][677]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.47.40:827][929]Cmd: TRANSACTION UNDO
+[2021.01.28-01.47.40:827][929]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.47.47:343][689]Cmd: TRANSACTION UNDO
+[2021.01.28-01.47.47:343][689]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.47.47:363][689]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.47.47:363][689]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.47.47:363][689]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.47.47:363][689]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.47.50:861][ 21]Cmd: TRANSACTION UNDO
+[2021.01.28-01.47.50:861][ 21]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.47.52:051][140]Cmd: TRANSACTION UNDO
+[2021.01.28-01.47.52:051][140]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.48.20:188][393]Cmd: TRANSACTION UNDO
+[2021.01.28-01.48.20:188][393]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.48.20:205][393]LogGeometryMode: Warning: Unable to find 3 Vertex(s) in new BSP
+[2021.01.28-01.48.20:205][393]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.48.20:205][393]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.48.20:205][393]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.48.20:205][393]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.48.21:653][531]Cmd: TRANSACTION UNDO
+[2021.01.28-01.48.21:653][531]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.48.22:672][647]Cmd: TRANSACTION UNDO
+[2021.01.28-01.48.22:672][647]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.28-01.48.26:529][ 53]Cmd: TRANSACTION UNDO
+[2021.01.28-01.48.26:529][ 53]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.48.26:546][ 53]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.01.28-01.48.26:546][ 53]LogGeometryMode: Warning: Unable to find 2 Edge(s) in new BSP
+[2021.01.28-01.48.26:546][ 53]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.48.26:546][ 53]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.48.26:546][ 53]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.48.50:169][681]Cmd: TRANSACTION UNDO
+[2021.01.28-01.48.50:170][681]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.48.50:186][681]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.01.28-01.48.50:186][681]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2021.01.28-01.48.50:186][681]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.48.50:186][681]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.48.50:186][681]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.48.59:942][742]Cmd: TRANSACTION UNDO
+[2021.01.28-01.48.59:942][742]LogEditorTransaction: Undo Move Actors
+[2021.01.28-01.48.59:959][742]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.01.28-01.48.59:959][742]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2021.01.28-01.48.59:959][742]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.28-01.48.59:959][742]LogGeometryMode: Warning: Unable to resolve BoxBrush10_6 Brush in new BSP, see above
+[2021.01.28-01.48.59:959][742]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.28-01.49.07:998][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.49.08:114][647]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.49.08:131][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.49.08:131][647]PIE: New page: PIE session: MainLevel (28 sty 2021, 03:49:08)
+[2021.01.28-01.49.08:131][647]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.28-01.49.08:138][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006986s)
+[2021.01.28-01.49.08:139][647]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.28-01.49.08:139][647]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2021.01.28-01.49.08:139][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.007830s)
+[2021.01.28-01.49.08:211][647]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.28-01.49.08:224][647]LogInit: FAudioDevice initialized.
+[2021.01.28-01.49.08:256][647]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.28-01.49.08:257][647]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-02.49.08
+[2021.01.28-01.49.08:258][647]LogWorld: Bringing up level for play took: 0.001374
+[2021.01.28-01.49.08:271][647]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,74
+[2021.01.28-01.49.21:113][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.49.21:159][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.49.21:198][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.49.21:220][187]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.01.28-01.50.21:074][831]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto8A3C53CC143E5DC394AD5DC86A40D16B1.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap'
+[2021.01.28-01.50.21:076][831]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.499
+[2021.01.28-01.50.21:076][831]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.499
+[2021.01.28-01.51.10:787][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.51.39:402][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-01.51.48:431][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-01.55.02:264][729]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/BP_PlayerPawn82E6DB494BA1A9CC81751A8CD5A60834.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Blueprints/BP_PlayerPawn.uasset'
