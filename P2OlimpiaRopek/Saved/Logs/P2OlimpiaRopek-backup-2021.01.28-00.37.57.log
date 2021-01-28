@@ -1,0 +1,1039 @@
+﻿Log file open, 01/27/21 22:40:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: P2OlimpiaRopek
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.543079
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.178s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 2700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.01.27-21.40.55:062][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.27-21.40.55:062][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.27-21.40.55:086][  0]LogHAL: Display: Platform has ~ 16 GB [17128230912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.27-21.40.55:086][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.01.27-21.40.55:086][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.27-21.40.55:087][  0]LogInit: Computer: DESKTOP-K8UO9K4
+[2021.01.27-21.40.55:087][  0]LogInit: User: Karkówka
+[2021.01.27-21.40.55:087][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.01.27-21.40.55:087][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.27-21.40.55:087][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.01.27-21.40.55:087][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.27-21.40.55:087][  0]LogMemory: Process Physical Memory: 101.27 MB used, 101.27 MB peak
+[2021.01.27-21.40.55:087][  0]LogMemory: Process Virtual Memory: 92.56 MB used, 92.56 MB peak
+[2021.01.27-21.40.55:087][  0]LogMemory: Physical Memory: 6041.17 MB used,  10293.58 MB free, 16334.75 MB total
+[2021.01.27-21.40.55:087][  0]LogMemory: Virtual Memory: 4663.23 MB used,  10293.58 MB free, 134217728.00 MB total
+[2021.01.27-21.40.55:124][  0]LogInit: Using OS detected language (pl-PL).
+[2021.01.27-21.40.55:124][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.01.27-21.40.55:125][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.01.27-21.40.55:126][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2021.01.27-21.40.55:126][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.27-21.40.55:153][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.27-21.40.55:153][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.27-21.40.55:388][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.27-21.40.55:388][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.27-21.40.55:473][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.01.27-21.40.55:473][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.27-21.40.55:476][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.27-21.40.55:476][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.27-21.40.55:476][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.27-21.40.55:484][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.27-21.40.55:484][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.27-21.40.55:484][  0]LogWindows: EnumDisplayDevices:
+[2021.01.27-21.40.55:484][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.01.27-21.40.55:484][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.01.27-21.40.55:485][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.01.27-21.40.55:485][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.01.27-21.40.55:485][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.27-21.40.55:485][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.01.27-21.40.55:485][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2021.01.27-21.40.55:485][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2021.01.27-21.40.55:485][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.01.27-21.40.55:545][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.27-21.40.55:566][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.27-21.40.55:570][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Intermediate/Shaders/WorkingDirectory/13028/).
+[2021.01.27-21.40.55:571][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Karkówka/AppData/Local/Temp/UnrealShaderWorkingDir/B6336FCC45409BEC5CAD1C9F7EB5775A/'.
+[2021.01.27-21.40.55:854][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.01.27-21.40.55:870][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.01.27-21.40.55:885][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.01.27-21.40.55:901][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.01.27-21.40.55:917][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.01.27-21.40.55:933][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.01.27-21.40.55:948][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.01.27-21.40.55:964][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.01.27-21.40.55:971][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:076][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.27-21.40.56:077][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.01.27-21.40.56:141][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.01.27-21.40.56:141][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.01.27-21.40.56:169][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.01.27-21.40.56:169][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.01.27-21.40.56:184][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.01.27-21.40.56:199][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.01.27-21.40.56:213][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.01.27-21.40.56:229][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.01.27-21.40.56:239][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.01.27-21.40.56:239][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.27-21.40.56:285][  0]LogXGEController: Cleaning working directory: C:/Users/Karkówka/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.27-21.40.56:285][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.27-21.40.56:286][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.27-21.40.56:286][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.27-21.40.57:099][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.27-21.40.57:151][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Karkówka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.01.27-21.40.57:151][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Karkówka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.01.27-21.40.57:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.27-21.40.57:152][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.27-21.40.57:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.27-21.40.57:152][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.27-21.40.57:171][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.27-21.40.57:183][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Karkówka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.27-21.40.57:183][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.27-21.40.57:183][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.27-21.40.57:202][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.27-21.40.57:204][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.27-21.40.57:204][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.27-21.40.57:283][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2021.01.27-21.40.57:643][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.27-21.40.57:767][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.01.27-21.40.57:770][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.01.27-21.40.57:770][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.27-21.40.57:770][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.27-21.40.57:770][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.01.27-21.40.57:787][  0]LogNetVersion: P2OlimpiaRopek 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 342105623)
+[2021.01.27-21.40.58:296][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.100193 seconds
+[2021.01.27-21.40.58:304][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.01.27-21.40.58:304][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2021.01.27-21.40.58:304][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.27-21.40.59:180][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.27-21.40.59:194][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.27-21.40.59:333][  0]SourceControl: Source control is disabled
+[2021.01.27-21.40.59:334][  0]SourceControl: Source control is disabled
+[2021.01.27-21.40.59:335][  0]SourceControl: Source control is disabled
+[2021.01.27-21.40.59:336][  0]SourceControl: Source control is disabled
+[2021.01.27-21.40.59:669][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.27-21.40.59:853][  0]LogOcInput: OculusInput pre-init called
+[2021.01.27-21.41.00:278][  0]LogEngine: Initializing Engine...
+[2021.01.27-21.41.00:297][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.27-21.41.00:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2021.01.27-21.41.00:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.27-21.41.00:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.01.27-21.41.00:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.27-21.41.00:744][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.27-21.41.00:993][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.27-21.41.01:117][  0]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.27-21.41.01:155][  0]LogInit: FAudioDevice initialized.
+[2021.01.27-21.41.01:155][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.27-21.41.01:209][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Karkówka/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.01.27-21.41.01:213][  0]LogInit: Texture streaming: Enabled
+[2021.01.27-21.41.01:260][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.27-21.41.01:260][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={9EFBEA8E-4793-8FF1-F9D3-A9B1BD8F0FEC}
+[2021.01.27-21.41.01:461][  0]LogInit: Transaction tracking system initialized
+[2021.01.27-21.41.01:796][  0]BlueprintLog: New page: Editor Load
+[2021.01.27-21.41.02:390][  0]LocalizationService: Localization service is disabled
+[2021.01.27-21.41.03:872][  0]LogFileCache: Scanning file cache for directory 'D:/Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/' took 0.01s
+[2021.01.27-21.41.03:872][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.27-21.41.03:880][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.27-21.41.03:891][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.01.27-21.41.03:891][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.01.27-21.41.03:891][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.27-21.41.03:891][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.01.27-21.41.03:891][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.27-21.41.05:329][  0]SourceControl: Source control is disabled
+[2021.01.27-21.41.05:339][  0]Cmd: MAP LOAD FILE="../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.27-21.41.05:341][  0]LightingResults: New page: Lighting Build
+[2021.01.27-21.41.05:430][  0]MapCheck: New page: Map Check
+[2021.01.27-21.41.05:430][  0]LightingResults: New page: Lighting Build
+[2021.01.27-21.41.06:935][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.27-21.41.07:233][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.27-21.41.07:304][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.27-21.41.07:364][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60,211ms to complete.
+[2021.01.27-21.41.07:364][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.035
+[2021.01.27-21.41.08:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-21.41.08:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-21.41.08:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-21.41.08:056][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-21.41.08:104][  0]LogCollectionManager: Loaded 0 collections in 0.000943 seconds
+[2021.01.27-21.41.08:195][  0]LogFileCache: Scanning file cache for directory 'D:/Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Collections/' took 0.01s
+[2021.01.27-21.41.08:195][  0]LogFileCache: Scanning file cache for directory 'D:/Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Developers/Karkówka/Collections/' took 0.01s
+[2021.01.27-21.41.08:195][  0]LogFileCache: Scanning file cache for directory 'D:/Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Collections/' took 0.01s
+[2021.01.27-21.41.08:195][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.01.27-21.41.08:214][  0]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2572 classes and 603 folders.
+[2021.01.27-21.41.08:269][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.27-21.41.09:230][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.27-21.41.09:270][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.01.27-21.41.09:545][  0]LogSlate: Took 0.006049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.27-21.41.09:564][  0]LogSlate: Took 0.016617 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.27-21.41.09:578][  0]LogSlate: Took 0.006368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.27-21.41.09:816][  0]LogRenderer: Reallocating scene render targets to support 1208x732 Format 10 NumSamples 1 (Frame:1).
+[2021.01.27-21.41.10:178][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.27-21.41.10:178][  0]LogLoad: (Engine Initialization) Total time: 17.11 seconds
+[2021.01.27-21.41.10:178][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.27-21.41.10:258][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.27-21.41.10:309][  0]LogSlate: Took 0.001861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.27-21.41.10:349][  1]LogAssetRegistry: Asset discovery search completed in 13.0883 seconds
+[2021.01.27-21.41.10:350][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.01.27-21.41.10:350][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2021.01.27-21.42.56:381][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.42.57:548][453]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.27-21.42.57:559][453]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-21.42.57:562][453]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2021.01.27-21.42.57:600][453]Cmd: MAP LOAD FILE="../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.27-21.42.57:600][453]LightingResults: New page: Lighting Build
+[2021.01.27-21.42.57:600][453]LoadErrors: New page: Loading map: MainLevel.umap
+[2021.01.27-21.42.57:601][453]MapCheck: New page: Map Check
+[2021.01.27-21.42.57:601][453]LightingResults: New page: Lighting Build
+[2021.01.27-21.42.57:656][453]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.27-21.42.57:704][453]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.27-21.42.57:766][453]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61,602ms to complete.
+[2021.01.27-21.42.57:767][453]LogFileHelpers: Loading map 'MainLevel' took 0.169
+[2021.01.27-21.43.04:715][ 60]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.27-21.43.04:791][ 60]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.P2OlimpiaRopek
+[2021.01.27-21.43.04:791][ 60]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-21.43.04:791][ 60]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2021.01.27-21.43.04:791][ 60]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-21.43.04:791][ 60]LogTemp: BranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2021.01.27-21.43.04:791][ 60]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kark?wka\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.01.27-21.48.36:924][524]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-21.48.36:929][524]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-21.49.58:563][550]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.27-21.50.05:226][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.50.12:624][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.50.48:920][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.51.03:970][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.51.50:100][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.51.52:365][139]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.27-21.51.54:979][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.52.23:095][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.53.05:268][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.53.17:891][335]LogEditorViewport: Clicking Background
+[2021.01.27-21.53.31:661][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.53.35:706][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.53.43:194][351]LogEditorViewport: Clicking Background
+[2021.01.27-21.53.52:458][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.53.55:057][759]LogEditorViewport: Clicking Background
+[2021.01.27-21.53.57:971][100]LogEditorViewport: Clicking Background
+[2021.01.27-21.54.17:226][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.54.24:851][303]LogEditorViewport: Clicking Background
+[2021.01.27-21.54.39:474][ 49]LogEditorViewport: Clicking Background
+[2021.01.27-21.54.44:526][654]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.44:526][654]LogEditorTransaction: Undo Clicking Background
+[2021.01.27-21.54.44:852][674]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.44:852][674]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.27-21.54.45:151][706]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.45:151][706]LogEditorTransaction: Undo Clicking Background
+[2021.01.27-21.54.45:395][732]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.45:395][732]LogEditorTransaction: Undo Move Actors
+[2021.01.27-21.54.45:654][757]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.45:654][757]LogEditorTransaction: Undo Move Actors
+[2021.01.27-21.54.46:041][800]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.46:041][800]LogEditorTransaction: Undo Move Actors
+[2021.01.27-21.54.46:303][828]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.46:304][828]LogEditorTransaction: Undo Move Actors
+[2021.01.27-21.54.46:703][871]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.46:703][871]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.27-21.54.47:000][906]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.47:000][906]LogEditorTransaction: Undo Clicking Background
+[2021.01.27-21.54.47:644][980]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.47:644][980]LogEditorTransaction: Undo Move Actors
+[2021.01.27-21.54.48:460][ 73]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.48:460][ 73]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.27-21.54.48:831][117]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.48:831][117]LogEditorTransaction: Undo Clicking Background
+[2021.01.27-21.54.49:230][162]Cmd: TRANSACTION UNDO
+[2021.01.27-21.54.49:230][162]LogEditorTransaction: Undo Edit Z
+[2021.01.27-21.54.50:096][261]LogEditorViewport: Clicking Background
+[2021.01.27-21.55.02:872][785]LogEditorViewport: Clicking Background
+[2021.01.27-21.55.25:132][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.55.29:811][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.55.34:228][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.55.56:225][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.56.16:346][582]LogEditorViewport: Clicking Background
+[2021.01.27-21.56.20:647][ 93]Cmd: DELETE
+[2021.01.27-21.56.20:647][ 93]Cmd: ACTOR DELETE
+[2021.01.27-21.56.20:744][ 93]LogEditorActor: Deleted Actor: Brush
+[2021.01.27-21.56.20:789][ 93]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.01.27-21.56.21:681][195]Cmd: DELETE
+[2021.01.27-21.56.21:681][195]Cmd: ACTOR DELETE
+[2021.01.27-21.56.21:685][195]LogEditorActor: Deleted Actor: Brush
+[2021.01.27-21.56.21:723][195]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2021.01.27-21.56.23:081][353]Cmd: DELETE
+[2021.01.27-21.56.23:081][353]Cmd: ACTOR DELETE
+[2021.01.27-21.56.23:085][353]LogEditorActor: Deleted Actor: Brush
+[2021.01.27-21.56.23:121][353]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2021.01.27-21.56.28:038][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.56.28:622][995]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.27-21.56.29:947][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.56.44:402][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.56.58:377][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.57.10:092][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.57.10:787][  5]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.27-21.57.12:444][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.57.28:923][158]Cmd: TRANSACTION UNDO
+[2021.01.27-21.57.28:923][158]LogEditorTransaction: Undo Move Actors
+[2021.01.27-21.57.30:370][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.57.48:260][450]Cmd: TRANSACTION UNDO
+[2021.01.27-21.57.48:261][450]LogEditorTransaction: Undo Move Actors
+[2021.01.27-21.57.48:823][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.58.08:013][767]LogEditorViewport: Clicking Background
+[2021.01.27-21.58.17:428][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.58.29:146][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.58.37:382][255]LogEditorViewport: Clicking Background
+[2021.01.27-21.58.46:705][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-21.58.53:092][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.58.53:208][144]Cmd: MODE GRID=0
+[2021.01.27-21.58.57:467][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.59.02:517][252]Cmd: MODE GRID=1
+[2021.01.27-21.59.11:321][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-21.59.17:602][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-21.59.32:438][818]LogEditorViewport: Clicking Background
+[2021.01.27-21.59.40:208][739]Cmd: TRANSACTION UNDO
+[2021.01.27-21.59.40:208][739]LogEditorTransaction: Undo Move Actors
+[2021.01.27-21.59.40:532][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.00.00:522][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.00.05:620][473]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_498' invalid (76 verts, 0 indices).
+[2021.01.27-22.00.05:620][473]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_498.BodySetup_0 when we are unable to.
+[2021.01.27-22.00.11:277][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.00.16:048][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.00.18:558][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_510' invalid (76 verts, 0 indices).
+[2021.01.27-22.00.18:558][994]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_510.BodySetup_0 when we are unable to.
+[2021.01.27-22.00.21:194][308]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_513' invalid (80 verts, 0 indices).
+[2021.01.27-22.00.21:194][308]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_513.BodySetup_0 when we are unable to.
+[2021.01.27-22.00.22:068][411]LogEditorViewport: Clicking Background
+[2021.01.27-22.00.28:965][230]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_522' invalid (80 verts, 0 indices).
+[2021.01.27-22.00.28:965][230]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_522.BodySetup_0 when we are unable to.
+[2021.01.27-22.00.31:556][537]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_526' invalid (136 verts, 0 indices).
+[2021.01.27-22.00.31:557][537]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_526.BodySetup_0 when we are unable to.
+[2021.01.27-22.00.31:557][537]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_530' invalid (136 verts, 0 indices).
+[2021.01.27-22.00.31:557][537]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_530.BodySetup_0 when we are unable to.
+[2021.01.27-22.00.32:142][605]LogEditorViewport: Clicking Background
+[2021.01.27-22.00.45:813][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.00.49:455][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.01.15:678][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.01.19:669][215]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.01.25:103][862]LogEditorViewport: Clicking Background
+[2021.01.27-22.01.30:644][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.01.34:670][964]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.27-22.01.34:678][964]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_534' invalid (160 verts, 0 indices).
+[2021.01.27-22.01.34:678][964]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_534.BodySetup_0 when we are unable to.
+[2021.01.27-22.01.34:679][964]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_538' invalid (160 verts, 0 indices).
+[2021.01.27-22.01.34:679][964]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_538.BodySetup_0 when we are unable to.
+[2021.01.27-22.01.36:740][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.01.37:518][297]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_542' invalid (136 verts, 0 indices).
+[2021.01.27-22.01.37:518][297]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_542.BodySetup_0 when we are unable to.
+[2021.01.27-22.01.37:520][297]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_546' invalid (136 verts, 0 indices).
+[2021.01.27-22.01.37:520][297]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_546.BodySetup_0 when we are unable to.
+[2021.01.27-22.01.42:689][913]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_550' invalid (176 verts, 0 indices).
+[2021.01.27-22.01.42:690][913]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_550.BodySetup_0 when we are unable to.
+[2021.01.27-22.01.50:130][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.01.52:084][ 12]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_558' invalid (176 verts, 0 indices).
+[2021.01.27-22.01.52:084][ 12]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_558.BodySetup_0 when we are unable to.
+[2021.01.27-22.01.55:150][378]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_566' invalid (176 verts, 0 indices).
+[2021.01.27-22.01.55:150][378]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_566.BodySetup_0 when we are unable to.
+[2021.01.27-22.02.00:132][974]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_574' invalid (176 verts, 0 indices).
+[2021.01.27-22.02.00:132][974]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_574.BodySetup_0 when we are unable to.
+[2021.01.27-22.02.05:651][593]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_582' invalid (176 verts, 0 indices).
+[2021.01.27-22.02.05:652][593]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_582.BodySetup_0 when we are unable to.
+[2021.01.27-22.02.09:613][ 65]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_590' invalid (176 verts, 0 indices).
+[2021.01.27-22.02.09:613][ 65]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_590.BodySetup_0 when we are unable to.
+[2021.01.27-22.02.20:430][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.02.25:065][905]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_598' invalid (176 verts, 0 indices).
+[2021.01.27-22.02.25:065][905]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_598.BodySetup_0 when we are unable to.
+[2021.01.27-22.02.26:419][ 63]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_606' invalid (176 verts, 0 indices).
+[2021.01.27-22.02.26:419][ 63]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_606.BodySetup_0 when we are unable to.
+[2021.01.27-22.02.31:541][673]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_614' invalid (208 verts, 0 indices).
+[2021.01.27-22.02.31:541][673]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_614.BodySetup_0 when we are unable to.
+[2021.01.27-22.02.32:008][726]LogEditorViewport: Clicking Background
+[2021.01.27-22.03.08:362][931]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto162B45C0045EF09E242DBFDB3C90AE697.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto1.umap'
+[2021.01.27-22.03.08:365][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.215
+[2021.01.27-22.03.08:365][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2021.01.27-22.03.31:942][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.03.33:585][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.03.34:463][ 41]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.27-22.03.34:549][ 43]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.P2OlimpiaRopek
+[2021.01.27-22.03.34:549][ 43]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-22.03.34:549][ 43]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2021.01.27-22.03.34:549][ 43]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-22.03.34:549][ 43]LogTemp: BranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2021.01.27-22.03.34:562][ 44]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kark?wka\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.01.27-22.04.23:562][903]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-22.04.23:566][903]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-22.04.43:510][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.04.43:783][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.04.44:613][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.04.48:648][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.04.48:898][869]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevelA70A84724F72BA94EA56ABB5D7B89A31.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Levels/MainLevel.umap'
+[2021.01.27-22.04.48:913][869]LogFileHelpers: Saving map 'MainLevel' took 0.258
+[2021.01.27-22.07.25:261][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.07.31:782][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.07.45:518][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.07.46:978][121]MapCheck: New page: Map Check
+[2021.01.27-22.07.46:990][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.07.46:993][121]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.27-22.07.46:993][121]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.27-22.07.47:018][121]LightingResults: New page: Lighting Build - 28 sty 2021, 00:07:47
+[2021.01.27-22.07.47:106][121]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.27-22.07.47:172][121]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.27-22.07.47:187][121]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.27-22.07.48:205][121]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.27-22.07.48:205][121]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13028
+[2021.01.27-22.07.54:488][121]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.01.27-22.07.54:488][121]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.27-22.07.54:489][121]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.27-22.07.54:489][121]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.27-22.07.54:489][121]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.27-22.07.54:489][121]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.27-22.07.55:119][121]LogEditorBuildUtils: Build time 0:08
+[2021.01.27-22.07.56:993][251]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.01.27-22.07.57:202][269]Job is a success!
+[2021.01.27-22.07.57:234][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:      BrickData 115x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:      Bricks at Level
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:          0: 4.3% covering 100.0% of volume
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:          1: 8.7% covering 3.1% of volume
+[2021.01.27-22.07.57:265][270]LogVolumetricLightmapImport:          2: 87.0% covering 0.5% of volume
+[2021.01.27-22.07.57:386][270]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2021.01.27-22.07.57:386][270]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.01.27-22.07.57:386][270]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.01.27-22.07.57:386][270]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X256)
+[2021.01.27-22.07.57:412][270]Lightmass on DESKTOP-K8UO9K4: 1.74 sec total, 89 ms importing, 3 ms setup, 1.01 sec photons, 586 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 7.81 sec total, 140 ms processing.
+[2021.01.27-22.07.57:472][270]LogStaticLightingSystem: Illumination: 10.4 sec (42 ms encoding lightmaps, 41 ms encoding shadowmaps)
+[2021.01.27-22.07.57:472][270]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2021.01.27-22.07.57:472][270]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 1 textures
+[2021.01.27-22.07.57:503][270]DumpUnbuiltLightIteractions
+[2021.01.27-22.07.57:503][270]Lights with unbuilt interactions: 0
+[2021.01.27-22.07.57:503][270]
+[2021.01.27-22.07.57:503][270]Primitives with unbuilt interactions: 0
+[2021.01.27-22.07.57:513][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.07.57:547][271]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.27-22.07.57:547][271]MapCheck: New page: MainLevel - 28 sty 2021, 00:07:57
+[2021.01.27-22.07.57:610][271]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63,076ms to complete.
+[2021.01.27-22.08.00:118][569]Cmd: DELETE
+[2021.01.27-22.08.00:118][569]Cmd: ACTOR DELETE
+[2021.01.27-22.08.00:120][569]LogEditorActor: Deleted Actor: SkyLight
+[2021.01.27-22.08.00:155][569]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.01.27-22.08.30:996][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.08.42:153][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.08.49:239][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.08.59:564][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.09.10:315][934]Cmd: DELETE
+[2021.01.27-22.09.10:315][934]Cmd: ACTOR DELETE
+[2021.01.27-22.09.10:317][934]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.01.27-22.09.10:353][934]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.01.27-22.09.11:654][ 90]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.01.27-22.09.13:493][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.09.14:902][464]MapCheck: New page: Map Check
+[2021.01.27-22.09.14:920][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.09.14:924][464]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.27-22.09.14:924][464]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.27-22.09.14:935][464]LightingResults: New page: Lighting Build - 28 sty 2021, 00:09:14
+[2021.01.27-22.09.14:942][464]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.27-22.09.14:948][464]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.27-22.09.14:948][464]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.27-22.09.14:949][464]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.27-22.09.14:949][464]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13028
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.27-22.09.19:493][464]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.27-22.09.19:578][464]LogEditorBuildUtils: Build time 0:04
+[2021.01.27-22.09.21:557][612]Job is a success!
+[2021.01.27-22.09.21:586][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:      BrickData 115x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:      Bricks at Level
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:          0: 4.3% covering 100.0% of volume
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:          1: 8.7% covering 3.1% of volume
+[2021.01.27-22.09.21:618][613]LogVolumetricLightmapImport:          2: 87.0% covering 0.5% of volume
+[2021.01.27-22.09.21:688][613]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.01.27-22.09.21:688][613]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.01.27-22.09.21:688][613]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X256)
+[2021.01.27-22.09.21:736][613]Lightmass on DESKTOP-K8UO9K4: 1.66 sec total, 74 ms importing, 3 ms setup, 1.00 sec photons, 525 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 6.88 sec total, 220 ms processing.
+[2021.01.27-22.09.21:747][613]LogStaticLightingSystem: Illumination: 6.79 sec (24 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2021.01.27-22.09.21:747][613]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.0 MB streaming, 0.5 MB non-streaming), 2 textures
+[2021.01.27-22.09.21:747][613]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 1 textures
+[2021.01.27-22.09.22:498][613]DumpUnbuiltLightIteractions
+[2021.01.27-22.09.22:498][613]Lights with unbuilt interactions: 0
+[2021.01.27-22.09.22:498][613]
+[2021.01.27-22.09.22:498][613]Primitives with unbuilt interactions: 0
+[2021.01.27-22.09.22:509][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.09.22:534][614]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.27-22.09.22:534][614]MapCheck: New page: MainLevel - 28 sty 2021, 00:09:22
+[2021.01.27-22.09.22:594][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61,033ms to complete.
+[2021.01.27-22.09.27:382][154]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.01.27-22.09.27:807][201]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.01.27-22.09.28:654][301]Cmd: DELETE
+[2021.01.27-22.09.28:654][301]Cmd: ACTOR DELETE
+[2021.01.27-22.09.28:656][301]LogEditorActor: Deleted Actor: SpotLight
+[2021.01.27-22.09.28:691][301]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.01.27-22.09.49:916][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.09.57:854][741]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.10.39:690][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.10.45:380][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.10.52:170][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.10.56:863][675]LogEditorViewport: Clicking Background
+[2021.01.27-22.10.58:858][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.11.04:589][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.11.24:911][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.11.28:021][312]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2021.01.27-22.11.32:444][842]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2021.01.27-22.11.40:533][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.11.52:671][209]LogMaterial: Warning: Material /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain.M_MaterialSphere_Plain needed to have new flag set bUsedWithStaticLighting !
+[2021.01.27-22.11.52:673][209]LogMaterial: Display: Missing cached shader map for material M_MaterialSphere_Plain, compiling. 
+[2021.01.27-22.11.52:824][210]LogShaderCompilers: Display: Shaders left to compile 31
+[2021.01.27-22.11.52:824][210]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-22.11.52:824][210]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-22.11.52:824][210]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-22.11.54:092][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.11.56:081][550]LogEditorViewport: Clicking Background
+[2021.01.27-22.11.59:562][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.12.01:612][200]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.12.02:425][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.12.13:873][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.12.15:240][787]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.12.16:336][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.12.31:012][632]LogEditorViewport: Clicking Background
+[2021.01.27-22.12.36:574][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.12.41:494][879]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2021.01.27-22.12.42:192][962]LogEditorViewport: Clicking Background
+[2021.01.27-22.12.56:771][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.12.58:546][875]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.12.59:245][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.13.11:102][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.13.21:982][606]LogEditorViewport: Clicking Background
+[2021.01.27-22.14.09:413][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.14.11:022][447]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.14.12:134][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.14.17:123][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.14.20:565][576]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2021.01.27-22.14.26:089][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.14.27:280][357]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.14.28:127][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.14.33:537][103]Cmd: POLY TEXSCALE  UU=0.200000 VV=0.200000
+[2021.01.27-22.14.34:187][180]LogEditorViewport: Clicking Background
+[2021.01.27-22.14.47:624][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.14.49:200][949]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.14.49:791][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.15.00:795][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.15.01:986][440]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.15.02:545][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.15.19:920][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.15.21:345][676]Cmd: POLY SELECT ADJACENT ALL
+[2021.01.27-22.15.22:172][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.15.37:892][625]LogEditorViewport: Clicking Background
+[2021.01.27-22.16.33:620][650]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto2D34AA1F34954039711F919AE1033100F.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2021.01.27-22.16.33:623][650]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.284
+[2021.01.27-22.16.33:623][650]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2021.01.27-22.16.33:625][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/MainLevel_BuiltData] ([1] browsable assets)...
+[2021.01.27-22.16.33:625][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainLevel_BuiltData]
+[2021.01.27-22.16.33:642][650]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_BuiltData_Auto2F14A5FDF48CF671A8ACFFE8DDC88B819.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_BuiltData_Auto2.uasset'
+[2021.01.27-22.16.33:645][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain] ([1] browsable assets)...
+[2021.01.27-22.16.33:671][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain.M_MaterialSphere_Plain]
+[2021.01.27-22.16.33:671][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain]
+[2021.01.27-22.16.33:705][650]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/M_MaterialSphere_Plain_Auto2B64F820544B7AB1BE7FDDDAEF0C982DA.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain_Auto2.uasset'
+[2021.01.27-22.16.33:706][650]LogFileHelpers: Auto-saving content packages took 0.082
+[2021.01.27-22.16.59:711][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.17.01:590][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.17.01:655][239]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel4A8D3ACE4FB16D5593DBD1BC6B11ABE4.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Levels/MainLevel.umap'
+[2021.01.27-22.17.01:682][239]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_BuiltData8E4AD5AB4BF3E7C3EDFAB0AE7835E179.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.01.27-22.22.51:596][334]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.22.52:879][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.22.55:405][769]Cmd: DELETE
+[2021.01.27-22.22.55:405][769]Cmd: ACTOR DELETE
+[2021.01.27-22.22.55:407][769]LogEditorActor: Deleted Actor: PointLight
+[2021.01.27-22.22.55:443][769]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.01.27-22.22.56:804][932]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.23.12:969][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.23.18:350][504]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2021.01.27-22.23.19:026][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.23.24:451][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.23.31:756][ 64]Cmd: DELETE
+[2021.01.27-22.23.31:756][ 64]Cmd: ACTOR DELETE
+[2021.01.27-22.23.31:758][ 64]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.01.27-22.23.31:792][ 64]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.01.27-22.23.32:846][190]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.23.33:984][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.23.37:733][770]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.23.38:402][848]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.23.47:117][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.24.00:980][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.24.05:175][ 19]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.01.27-22.24.06:506][174]Cmd: DELETE
+[2021.01.27-22.24.06:506][174]Cmd: ACTOR DELETE
+[2021.01.27-22.24.06:507][174]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.01.27-22.24.06:543][174]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.01.27-22.24.07:690][312]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.01.27-22.24.09:904][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.24.19:260][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.24.53:100][678]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.01.27-22.24.55:923][ 10]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2021.01.27-22.25.12:641][946]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2021.01.27-22.25.13:739][ 73]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2021.01.27-22.25.14:654][178]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2021.01.27-22.25.15:757][305]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2021.01.27-22.25.21:275][954]LogEditorViewport: Clicking Background
+[2021.01.27-22.25.27:806][712]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.01.27-22.25.30:655][ 47]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2021.01.27-22.25.33:961][437]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.01.27-22.25.36:268][707]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2021.01.27-22.25.42:840][487]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2021.01.27-22.25.44:604][692]LogEditorViewport: Clicking Background
+[2021.01.27-22.25.51:941][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.25.56:061][ 34]LogSlate: Took 0.027062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.27-22.25.56:820][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.26.04:456][ 35]LogEditorViewport: Clicking Background
+[2021.01.27-22.27.53:055][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.27.56:074][318]LogEditorViewport: Clicking Background
+[2021.01.27-22.27.56:766][384]LogRenderer: Reallocating scene render targets to support 1332x808 Format 10 NumSamples 1 (Frame:197247).
+[2021.01.27-22.27.56:825][385]LogRenderer: Reallocating scene render targets to support 1920x1160 Format 10 NumSamples 1 (Frame:197249).
+[2021.01.27-22.27.56:867][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.28.04:481][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.28.11:130][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.28.11:211][ 76]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto31A98ED0D4084885A89E5E7B0CF02DDCB.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto3.umap'
+[2021.01.27-22.28.11:214][ 76]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.065
+[2021.01.27-22.28.11:214][ 76]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.065
+[2021.01.27-22.28.13:224][317]Cmd: SELECT NONE
+[2021.01.27-22.28.15:330][569]Cmd: SELECT NONE
+[2021.01.27-22.28.16:660][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.31.28:235][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.31.36:506][429]Cmd: DELETE
+[2021.01.27-22.31.36:506][429]Cmd: ACTOR DELETE
+[2021.01.27-22.31.36:508][429]LogEditorActor: Deleted Actor: RectLight
+[2021.01.27-22.31.36:542][429]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.01.27-22.32.16:717][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.32.33:591][835]Cmd: DELETE
+[2021.01.27-22.32.33:591][835]Cmd: ACTOR DELETE
+[2021.01.27-22.32.33:593][835]LogEditorActor: Deleted Actor: PointLight
+[2021.01.27-22.32.33:628][835]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.01.27-22.32.35:319][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.32.38:023][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.32.39:461][512]Cmd: TRANSACTION UNDO
+[2021.01.27-22.32.39:461][512]LogEditorTransaction: Undo Create Actors
+[2021.01.27-22.32.43:485][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.32.50:437][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.33.09:897][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.36.17:627][435]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2021.01.27-22.36.18:240][506]Cmd: DELETE
+[2021.01.27-22.36.18:240][506]Cmd: ACTOR DELETE
+[2021.01.27-22.36.18:243][506]LogEditorActor: Deleted Actor: SpotLight
+[2021.01.27-22.36.18:279][506]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.01.27-22.36.45:784][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.36.53:898][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.38.11:479][110]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto48097C44F4C88806B0C7A33B4BBEE4DDE.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto4.umap'
+[2021.01.27-22.38.11:481][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.296
+[2021.01.27-22.38.11:481][110]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2021.01.27-22.38.48:823][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.39.05:033][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.39.28:472][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.39.30:381][172]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-22.39.33:697][564]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-22.39.37:395][980]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-22.39.39:636][247]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-22.39.51:552][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.48.11:995][786]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto55EB044B74395E697D2E0FF983ADAFC7A.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2021.01.27-22.48.11:997][786]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.072
+[2021.01.27-22.48.11:997][786]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2021.01.27-22.52.26:867][704]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.27-22.54.54:161][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.55.16:850][766]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Crystal.BP_Crystal
+[2021.01.27-22.55.17:660][766]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2021.01.27-22.57.04:555][236]LogSlate: Window 'BP_Crystal*' being destroyed
+[2021.01.27-22.57.47:337][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.58.04:598][704]LogSlate: Window 'BP_Crystal*' being destroyed
+[2021.01.27-22.58.20:442][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-22.58.24:383][ 50]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.27-22.58.25:832][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-22.58.52:625][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.041
+[2021.01.27-22.58.52:626][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Crystal] ([1] browsable assets)...
+[2021.01.27-22.58.52:626][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Crystal]
+[2021.01.27-22.58.52:635][564]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/BP_Crystal_Auto6DB164EF241B2351BD767578B75ECF6C1.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Blueprints/BP_Crystal_Auto6.uasset'
+[2021.01.27-22.58.52:636][564]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.01.27-23.00.56:548][428]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.27-23.01.03:096][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.01.12:873][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.01.17:572][909]LogEditorTransaction: Undo Set Location
+[2021.01.27-23.01.19:622][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.01.33:872][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.01.39:190][462]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.27-23.02.32:021][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.03.05:556][446]LogEditorViewport: Clicking Background
+[2021.01.27-23.03.12:429][245]Cmd: TRANSACTION UNDO
+[2021.01.27-23.03.12:429][245]LogEditorTransaction: Undo Clicking Background
+[2021.01.27-23.03.12:963][296]Cmd: TRANSACTION UNDO
+[2021.01.27-23.03.12:963][296]LogEditorTransaction: Undo Move Actors
+[2021.01.27-23.03.13:372][343]Cmd: TRANSACTION UNDO
+[2021.01.27-23.03.13:372][343]LogEditorTransaction: Undo Create Actors
+[2021.01.27-23.03.13:774][387]Cmd: TRANSACTION UNDO
+[2021.01.27-23.03.13:774][387]LogEditorTransaction: Undo Rename Component Variable
+[2021.01.27-23.03.15:170][551]Cmd: TRANSACTION REDO
+[2021.01.27-23.03.15:170][551]LogEditorTransaction: Redo Rename Component Variable
+[2021.01.27-23.03.16:359][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.03.19:075][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.03.36:158][ 40]BlueprintLog: New page: Compile BP_Crystal
+[2021.01.27-23.03.40:395][473]LogEditorViewport: Clicking Background
+[2021.01.27-23.03.42:609][728]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal)
+[2021.01.27-23.03.44:281][923]LogEditorViewport: Clicking Background
+[2021.01.27-23.03.50:209][611]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal)
+[2021.01.27-23.04.01:293][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.04.04:096][176]Cmd: TRANSACTION UNDO
+[2021.01.27-23.04.04:096][176]LogEditorTransaction: Undo Move Actors
+[2021.01.27-23.04.04:708][238]Cmd: TRANSACTION UNDO
+[2021.01.27-23.04.04:708][238]LogEditorTransaction: Undo Create Actors
+[2021.01.27-23.04.07:375][547]Cmd: TRANSACTION UNDO
+[2021.01.27-23.04.07:375][547]LogEditorTransaction: Undo Move Actors
+[2021.01.27-23.04.13:156][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-23.04.13:877][301]LogEditorViewport: Clicking Background
+[2021.01.27-23.08.13:618][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.08.21:807][197]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.27-23.08.53:331][529]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto7879FCA6345F32A4CE7EF99A7001DD02F.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2021.01.27-23.08.53:334][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.088
+[2021.01.27-23.08.53:334][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2021.01.27-23.08.53:335][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Crystal] ([1] browsable assets)...
+[2021.01.27-23.08.53:346][529]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Crystal.BP_Crystal]
+[2021.01.27-23.08.53:346][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Crystal]
+[2021.01.27-23.08.53:363][529]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/BP_Crystal_Auto73A0EC8DA4D95AFEC188CCF80EBA8FB71.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Blueprints/BP_Crystal_Auto7.uasset'
+[2021.01.27-23.08.53:364][529]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.01.27-23.09.41:595][895]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.27-23.11.40:385][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2021.01.27-23.15.47:229][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.17.57:280][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-23.18.47:844][528]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.27-23.19.02:924][307]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-23.19.02:949][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-23.19.02:986][307]PIE: New page: PIE session: MainLevel (28 sty 2021, 01:19:02)
+[2021.01.27-23.19.02:986][307]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-23.19.02:997][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010750s)
+[2021.01.27-23.19.02:998][307]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-23.19.02:998][307]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2021.01.27-23.19.02:998][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.011612s)
+[2021.01.27-23.19.03:089][307]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.27-23.19.03:102][307]LogInit: FAudioDevice initialized.
+[2021.01.27-23.19.03:154][307]LogLoad: Game class is 'GameModeBase'
+[2021.01.27-23.19.03:162][307]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-00.19.03
+[2021.01.27-23.19.03:162][307]LogWorld: Bringing up level for play took: 0.001221
+[2021.01.27-23.19.03:194][307]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2021.01.27-23.19.03:195][307]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,184
+[2021.01.27-23.19.13:472][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.19.13:512][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-23.19.13:566][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.19.13:588][528]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.27-23.19.19:154][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.19.24:690][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.19.24:798][795]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-23.19.24:808][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-23.19.24:809][795]PIE: New page: PIE session: MainLevel (28 sty 2021, 01:19:24)
+[2021.01.27-23.19.24:809][795]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-23.19.24:813][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004682s)
+[2021.01.27-23.19.24:814][795]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-23.19.24:814][795]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2021.01.27-23.19.24:814][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005478s)
+[2021.01.27-23.19.24:915][795]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.27-23.19.24:929][795]LogInit: FAudioDevice initialized.
+[2021.01.27-23.19.24:961][795]LogLoad: Game class is 'GameModeBase'
+[2021.01.27-23.19.24:962][795]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-00.19.24
+[2021.01.27-23.19.24:980][795]LogWorld: Bringing up level for play took: 0.018634
+[2021.01.27-23.19.24:993][795]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,018
+[2021.01.27-23.19.29:875][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.19.29:916][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-23.19.29:958][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.19.29:982][380]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.27-23.19.55:854][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-23.19.55:942][480]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/MainLevel_Auto80200AD244500C016EDD761885407B6AD.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap'
+[2021.01.27-23.19.55:945][480]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.078
+[2021.01.27-23.19.55:945][480]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2021.01.27-23.19.55:946][480]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.01.27-23.19.55:957][480]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.01.27-23.19.55:957][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.01.27-23.19.55:975][480]LogSavePackage: Moving '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/BP_PlayerPawn_Auto8C0F26F1A49E9F5DF0711BB99EB8B5759.tmp' to '../../../../../../Użytkownicy/Żeberka/!V rok/silniki gierr/Projekt _2/P2OlimpiaRopek/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto8.uasset'
+[2021.01.27-23.19.55:976][480]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.01.27-23.20.12:920][770]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerPawn_C (BP_PlayerPawn)
+[2021.01.27-23.20.21:747][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-23.20.38:973][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.20.39:106][878]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-23.20.39:115][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-23.20.39:116][878]PIE: New page: PIE session: MainLevel (28 sty 2021, 01:20:39)
+[2021.01.27-23.20.39:116][878]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-23.20.39:120][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004730s)
+[2021.01.27-23.20.39:121][878]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-23.20.39:121][878]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2021.01.27-23.20.39:121][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005542s)
+[2021.01.27-23.20.39:213][878]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.27-23.20.39:225][878]LogInit: FAudioDevice initialized.
+[2021.01.27-23.20.39:259][878]LogLoad: Game class is 'GameModeBase'
+[2021.01.27-23.20.39:260][878]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-00.20.39
+[2021.01.27-23.20.39:261][878]LogWorld: Bringing up level for play took: 0.001231
+[2021.01.27-23.20.39:273][878]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,261
+[2021.01.27-23.20.44:696][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.20.44:731][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-23.20.44:765][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.20.44:798][524]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.27-23.20.51:603][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.20.51:768][887]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-23.20.51:778][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-23.20.51:778][887]PIE: New page: PIE session: MainLevel (28 sty 2021, 01:20:51)
+[2021.01.27-23.20.51:778][887]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-23.20.51:783][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004793s)
+[2021.01.27-23.20.51:783][887]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-23.20.51:783][887]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2021.01.27-23.20.51:783][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005612s)
+[2021.01.27-23.20.51:850][887]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.27-23.20.51:862][887]LogInit: FAudioDevice initialized.
+[2021.01.27-23.20.51:897][887]LogLoad: Game class is 'GameModeBase'
+[2021.01.27-23.20.51:898][887]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-00.20.51
+[2021.01.27-23.20.51:898][887]LogWorld: Bringing up level for play took: 0.001226
+[2021.01.27-23.20.51:910][887]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,9
+[2021.01.27-23.21.51:073][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.26.44:070][529]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.27-23.26.48:565][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.26.48:605][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-23.26.48:648][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.26.48:669][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.27-23.26.49:297][132]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerPawn_C (BP_PlayerPawn)
+[2021.01.27-23.27.04:110][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-23.27.04:116][887]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.27-23.29.12:625][986]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.27-23.29.54:881][996]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2021.01.27-23.30.27:559][868]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.27-23.30.45:532][ 15]BlueprintLog: New page: Compile BP_GameMode
+[2021.01.27-23.31.27:746][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.34.05:011][565]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.27-23.34.17:192][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-23.35.03:951][239]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.27-23.35.04:038][241]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.P2OlimpiaRopek
+[2021.01.27-23.35.04:038][241]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-23.35.04:038][241]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2021.01.27-23.35.04:038][241]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-23.35.04:038][241]LogTemp: BranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2021.01.27-23.35.04:052][242]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kark?wka\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.01.27-23.36.45:667][864]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-23.36.45:673][864]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-23.36.47:133][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-23.36.47:146][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-23.36.47:146][ 31]PIE: New page: PIE session: MainLevel (28 sty 2021, 01:36:47)
+[2021.01.27-23.36.47:146][ 31]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-23.36.47:151][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004760s)
+[2021.01.27-23.36.47:152][ 31]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-23.36.47:152][ 31]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2021.01.27-23.36.47:152][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005637s)
+[2021.01.27-23.36.47:248][ 31]LogInit: XAudio2 using 'Zestaw słuchawkowy (Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.27-23.36.47:261][ 31]LogInit: FAudioDevice initialized.
+[2021.01.27-23.36.47:292][ 31]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-23.36.47:294][ 31]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.01.28-00.36.47
+[2021.01.27-23.36.47:294][ 31]LogWorld: Bringing up level for play took: 0.001235
+[2021.01.27-23.36.47:307][ 31]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,295
+[2021.01.27-23.36.49:406][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.36.49:446][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-23.36.49:488][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-23.36.49:509][282]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.27-23.36.51:359][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-23.36.52:656][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-23.36.53:566][651]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.27-23.36.53:641][652]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.P2OlimpiaRopek
+[2021.01.27-23.36.53:641][652]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-23.36.53:641][652]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2021.01.27-23.36.53:641][652]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-23.36.53:641][652]LogTemp: BranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2021.01.27-23.36.53:665][653]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kark?wka\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.01.27-23.37.18:502][459]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.27-23.37.18:632][459]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.P2OlimpiaRopek
+[2021.01.27-23.37.18:632][459]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-23.37.18:632][459]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2021.01.27-23.37.18:632][459]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-23.37.18:632][459]LogTemp: BranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-K8UO9K4/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2021.01.27-23.37.18:632][459]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kark?wka\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.01.27-23.37.23:913][459]LogWindows: Error: === Critical error: ===
+[2021.01.27-23.37.23:913][459]LogWindows: Error: 
+[2021.01.27-23.37.23:914][459]LogWindows: Error: Fatal error!
+[2021.01.27-23.37.23:914][459]LogWindows: Error: 
+[2021.01.27-23.37.23:914][459]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000078
+[2021.01.27-23.37.23:914][459]LogWindows: Error: 
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa39ace9d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa39a83c43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa370ea949 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa3708bc4f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa3aa69c3b UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa3a8594c5 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa3a8f1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa3a8d7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa3a8cb25c UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa6ee9d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa6ee90270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa6ee9f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa6ee8c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa9ef55c1d USER32.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa9ef55612 USER32.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffa6eea0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ff6fed854e5 UE4Editor.exe!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ff6fed95b3c UE4Editor.exe!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ff6fed95bba UE4Editor.exe!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ff6feda3dac UE4Editor.exe!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ff6feda5aaa UE4Editor.exe!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffaa04b7c24 KERNEL32.DLL!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: [Callstack] 0x00007ffaa0d6d4d1 ntdll.dll!UnknownFunction []
+[2021.01.27-23.37.23:914][459]LogWindows: Error: 
+[2021.01.27-23.37.23:930][459]LogExit: Executing StaticShutdownAfterError
+[2021.01.27-23.37.24:093][459]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.01.27-23.37.24:096][459]Log file closed, 01/28/21 00:37:24
